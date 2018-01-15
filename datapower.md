@@ -66,7 +66,7 @@ GatewayScript Example  - JSON to SOAP
 ###### <https://www.google.com/url?q=https://docs.google.com/document/d/1QB_nugvVLhaJ6OmLXUgb5J-WHhmB9T6SqmV3Bn4_G6o/pub&sa=D&ust=1515781123109000&usg=AFQjCNFURr9p6o3oqM1fGIp8bXkx-93Y9A>    
 ---
 DataPower Monitoring Facility  
-###### <http://www.escala-live.co.uk:84/>  
+###### <http://www.escala-live.co.uk:84>  
 This is a DataPower-based service, using XMI to find the status of other DataPowers.  
 Try the SVG link using Firefox or Chrome.  
 ---
