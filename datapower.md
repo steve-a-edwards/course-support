@@ -68,8 +68,8 @@ GatewayScript Example  - JSON to SOAP
 DataPower Monitoring Facility  
 ###### <http://www.escala-live.co.uk:84>  
 
-This is a DataPower-based service, using XMI to find the status of other DataPowers.  
-Try the SVG link using Firefox or Chrome.  
+###### This is a DataPower-based service, using XMI to find the status of other DataPowers.  
+###### Try the SVG link using Firefox or Chrome.  
 ---
 XMI to run a CLI script already on DataPower - *ExecConfig*  
 ###### <https://docs.google.com/document/d/1UNOIY4jWCPZajk0dQ0q06_rbnejOAiNwddqywpttv10/pub>  
