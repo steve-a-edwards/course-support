@@ -1,4 +1,4 @@
-# WE751 - Course Extra - 17th - 19th December, 2018 - Oslo.
+# WE751 - Course Extra - 17th - 19th January, 2018 - Oslo.
 Use this link to access further links relating to the WE751 course:  
 WE751 (Wed, Thu, Fri):  
 ###### <https://docs.google.com/document/d/e/2PACX-1vQKbiA8IUTwQJCDBynlYA26MolPHXAamPrU8ZdS4wr9ePzkXMo0h33GpczmQG6TElmh0hL_sYqcxTbV/pub>  
