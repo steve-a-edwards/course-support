@@ -1,11 +1,11 @@
 # WE751 - Course Extra - 17th - 19th December, 2017 - Oslo.
 Use this link to access further links relating to the WE751 course:  
 WE751 (Wed, Thu, Fri):  
-######<https://docs.google.com/document/d/e/2PACX-1vQKbiA8IUTwQJCDBynlYA26MolPHXAamPrU8ZdS4wr9ePzkXMo0h33GpczmQG6TElmh0hL_sYqcxTbV/pub>  
+###### <https://docs.google.com/document/d/e/2PACX-1vQKbiA8IUTwQJCDBynlYA26MolPHXAamPrU8ZdS4wr9ePzkXMo0h33GpczmQG6TElmh0hL_sYqcxTbV/pub>  
 ---
 ## Further Resources
 IBM DataPower Gateways Overview 7.0 - (Better Introduction)  
-######<https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c>  
+#####<https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c>  
 ---
 Course pre-requisite:  
 IBM DataPower Gateway Appliance V7.5.0 Technical Introduction VW750 (WBT) (Jim Brown)  
