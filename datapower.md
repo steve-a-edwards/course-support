@@ -1,21 +1,34 @@
-# WE751 - Course Extra - 17th - 19th January, 2018 - Oslo.
-Use this link to access further links relating to the WE751 course:  
-WE751 (Wed, Thu, Fri):  
-###### <https://docs.google.com/document/d/e/2PACX-1vQKbiA8IUTwQJCDBynlYA26MolPHXAamPrU8ZdS4wr9ePzkXMo0h33GpczmQG6TElmh0hL_sYqcxTbV/pub>  
+# WE751 - Course Extra - 29th - 31st January, 2018 - Groningen.
+
+[Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+
+[Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2018-01-17.md "Click this link to see the student links to the IRLP Labs.")
+
+[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
+
+[Online Survey link](https://mtm.cebglobal.com/url/u.aspx?A6B020842121913338 "Click this link to do the evaluation. Not available until the last day.")
+
+[Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
+
+---
+## Exercise Extras
+
+[Basic Familiarisation with DataPower WebGUI](https://docs.google.com/document/d/13rxAq57LTh6gDvXbtAWtdGpq71U8hvMJYro-DQ3Ax-s/pub "Exploring DataPower features.")
+
+[Adding bespoke logging capability](https://github.com/steve-a-edwards/we751/blob/master/extra-exercises/error-handling-log.xsl "Instructions are in the XSL file.")
+
+[Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
+
 ---
 ## Further Resources
 
-IBM DataPower Gateways Overview 7.0 - (Better Introduction)  
-###### <https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c>  
+
 ---
-Course pre-requisite:  
-IBM DataPower Gateway Appliance V7.5.0 Technical Introduction VW750 (WBT) (Jim Brown)  
-Mar 2016  
-Youtube (49:02)  
-###### <https://www.youtube.com/watch?v=yYk5Bzuie4g>  
+[Course pre-requisite: VW750](https://www.youtube.com/watch?v=yYk5Bzuie4g "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")  
+ 
+[IBM DataPower Gateways Overview 7.0](https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c "More concise overview of DataPower and supported technologies.")
 ---
-References DataPower:  
-###### <https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0>  
+[References DataPower](https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0 "Compiled by Steve for over 10 years.") 
 ---
 HTTP Sample Packets:  
 ###### <https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/edit?usp=sharing>  
