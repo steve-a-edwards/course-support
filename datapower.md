@@ -44,6 +44,8 @@
 ---
 ## Exercise More Extras and Solutions
 
+[Using Docker-based DataPower for course labs](https://docs.google.com/document/d/e/2PACX-1vRV0CsvOjrHi73y9rSqdbWtAUuw_CKY9FUx7N1cJYDU1e7i2ekiqACknU2c2bjBKIt_mLxxYMnicQqc/pub "Shows how to set up a Docker-based DataPower and carry out the course labs.")
+
 [Certificate Monitor Solution](https://docs.google.com/document/d/1gJw9D7yPTKfvnNKHPTiRO5rIrA90y9UtlGkQyYyEWZc/pub)
 
 [Cert Monitor HTTP Service](https://docs.google.com/document/d/1gnTpya776wh0nYOhPBWPvZOwKrrBn34Ndl6lAjhO0Cw/pub "A service giving access to a log file, without having to login to DataPower.")
