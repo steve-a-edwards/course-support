@@ -30,6 +30,8 @@
 
 [HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/edit?usp=sharing "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
+[Sample DataPower Service Variables](https://github.com/steve-a-edwards/course-support/blob/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
+
 ##### Following PDFs on Steve's Google Docs site  
 [DataPower Administrators Guide](https://drive.google.com/file/d/0B3s7NxeB9e0ZVnZ1UExMSnBxNUU/view?usp=sharing "XI50, 3.8.1, June 2010.")
 
