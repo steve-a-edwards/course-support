@@ -18,6 +18,8 @@
 
 [Adding bespoke logging capability](https://github.com/steve-a-edwards/we751/blob/master/extra-exercises/error-handling-log.xsl "Instructions are in the XSL file.")
 
+[Using an AAA Policy to Authenticate and Authorize messages](https://docs.google.com/document/d/e/2PACX-1vRiP1KJbHpwNsOv0VZVLGrGWO2Fxm0U5WhuX_q2m1FgjFvl6i5niJTQqutdBdGCCu-NkXvKS4QroUQK/pub "Augments existing HelloWorld MPGW.")
+
 [Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
 
 ---
