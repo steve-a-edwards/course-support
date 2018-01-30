@@ -7,7 +7,7 @@
 
 [Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 
-[Online Survey link](https://mtm.cebglobal.com/url/u.aspx?A6B020842121913338 "Click this link to do the evaluation. Not available until the last day.")
+[Online Survey link](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
 
 [Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
