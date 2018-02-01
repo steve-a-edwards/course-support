@@ -23,6 +23,8 @@
 
 [Using an AAA Policy to Authenticate and Authorize messages](https://docs.google.com/document/d/e/2PACX-1vRiP1KJbHpwNsOv0VZVLGrGWO2Fxm0U5WhuX_q2m1FgjFvl6i5niJTQqutdBdGCCu-NkXvKS4QroUQK/pub "Augments existing HelloWorld MPGW.")
 
+[Extra-DP-Development-Exercises](https://docs.google.com/document/d/e/2PACX-1vSGRFk7b1xfEF9JlFCshlwBeLtSViPqjEAJ8qTc9A1EkeK3R9uyRYrMXY1_wqJ8SphjKFj1lIT2mxPf/pub "HTTP Service, side calls ... .")
+
 [Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
 
 ---
