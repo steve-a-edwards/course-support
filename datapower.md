@@ -30,7 +30,9 @@
 ---
 ## Further Resources
 
-[Course pre-requisite: VW750](https://www.youtube.com/watch?v=yYk5Bzuie4g "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")
+[Course pre-requisite: VW750 on Youtube](https://www.youtube.com/watch?v=yYk5Bzuie4g "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).") - 
+[Download MP4](https://drive.google.com/file/d/1reYHhno9-ocaEMovpQPtnaYY4UwWaeQu/view "Download MP4")
+
 
 [IBM DataPower Gateways Overview 7.0](https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c "More concise overview of DataPower and supported technologies.")
 
