@@ -14,7 +14,11 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
-[Online Survey link](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
+[Online Survey link - 1](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
+
+<!--
+[Online Survey link - 2](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
+-->
 
 [Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
