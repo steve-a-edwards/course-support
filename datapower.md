@@ -34,6 +34,8 @@
 
 [Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
 
+[CLI command file to export a domain and copy to Linux workstation](https://docs.google.com/document/d/e/2PACX-1vQiDAh-grlfECZpVXCELdN6AUxScO8uNEjGaJiAIbXywUDLRQtSca_i88X54h3yClpeQf5RJ_WXJjIX/pub}
+
 ---
 ## Further Resources
 
