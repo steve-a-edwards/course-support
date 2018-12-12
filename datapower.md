@@ -24,6 +24,8 @@
 [Online Survey link - 2](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
 -->
 
+[Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
+
 [Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
 ---
