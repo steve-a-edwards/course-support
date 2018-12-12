@@ -31,6 +31,8 @@
 WE754 - Some of the key files in /usr/labfiles/dp/WSSecurity have expired.  
 Download all the files from this [location](https://github.com/steve-a-edwards/we754/tree/master/updated-keys) into the above folder.  
 
+[Docker setup for WE751](https://docs.google.com/document/d/e/2PACX-1vRV0CsvOjrHi73y9rSqdbWtAUuw_CKY9FUx7N1cJYDU1e7i2ekiqACknU2c2bjBKIt_mLxxYMnicQqc/pub)
+
 ---
 ## Exercise Extras
 
