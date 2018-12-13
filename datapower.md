@@ -52,9 +52,12 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
 
-[CLI command file to export a domain and copy to Linux workstation](https://docs.google.com/document/d/e/2PACX-1vQiDAh-grlfECZpVXCELdN6AUxScO8uNEjGaJiAIbXywUDLRQtSca_i88X54h3yClpeQf5RJ_WXJjIX/pub)
+[CLI command file to export a domain and copy to Linux workstation](https://docs.google.com/document/d/e/2PACX-1vQiDAh-grlfECZpVXCELdN6AUxScO8uNEjGaJiAIbXywUDLRQtSca_i88X54h3yClpeQf5RJ_WXJjIX/pub)   
+(DataPower Command Reference is [here](https://drive.google.com/file/d/0B3s7NxeB9e0ZRXQ1dUZuVjRlZmc/view?usp=sharing "XI50, 3.8.1, June 2010."))
 
-[Linux command script to make an XMI remote call to trigger a DataPower script (the one above)](https://github.com/steve-a-edwards/we761/blob/master/sample-sh-code/xmi-ExecConfig.sh)
+[Linux command script to make an XMI remote call to trigger a DataPower script (the one above)](https://github.com/steve-a-edwards/we761/blob/master/sample-sh-code/xmi-ExecConfig.sh)   
+(WebSphere DataPower SOA Appliance: The XML Management Interface is [here](https://drive.google.com/file/d/0B3s7NxeB9e0ZNWFoT3VkbjJtMWc/view?usp=sharing "XI50, 3.7, September 2008."))
+
 
 ---
 ## Further Resources
