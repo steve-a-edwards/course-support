@@ -1,4 +1,4 @@
-# WE761 - Course Extra - March, 2019 - Wiltshire.
+# WE761 - Course Extra - March, 2019 - London.
 
 [Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
@@ -26,8 +26,6 @@
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
-
-[Online Survey link - WE754](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162662)
 
 <!--
 [Online Survey link - 2](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
