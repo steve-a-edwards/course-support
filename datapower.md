@@ -23,6 +23,8 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
+[Online Survey link - WE761](https://mtm.cebglobal.com/url/u.aspx?8E4C10A8C140213593)
+
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
@@ -127,3 +129,6 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 ---
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
+
+
+[_](https://mtm.cebglobal.com/url/u.aspx?55CFD2509140213595)
