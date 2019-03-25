@@ -13,9 +13,8 @@
 
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)
 
-<!--
 [WE751 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vSc_FPl2vCypuEtKs-822e7skjTG_PYZHI11TaQ9leyg_RYyzNU650hHm69KK2Vu2hkF9svULuCMOtT/pub)
--->
+
 <!--
 [WE754 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vTph5P1nmoCDmLv_Ex6RaK61ZMek9Ob3qEEQT0a-z_xF7bGwuJ6xv8ospNaBBN7eMidPHFMnSVB_ask/pub)
 -->
