@@ -55,6 +55,9 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 [Adding bespoke logging capability](https://github.com/steve-a-edwards/we751/blob/master/extra-exercises/error-handling-log.xsl "Instructions are in the XSL file.")
 
 
+[Using Deployment Policy objects](https://docs.google.com/document/d/e/2PACX-1vQck_UzM3hvdgnGQLcRRUWkUQiGf1WpIiafDsS5D6J01LSbe1oerKW32xlrxQedoObZ64M6qrDlCn4Q/pub "See here")
+
+
 [GatewayScript logging example code](https://github.com/steve-a-edwards/GatewayScript-Examples/blob/master/7.2/console-log-own-category.js "Log entry triggering using specific category.")
 
 [Using an AAA Policy to Authenticate and Authorize messages](https://docs.google.com/document/d/e/2PACX-1vRiP1KJbHpwNsOv0VZVLGrGWO2Fxm0U5WhuX_q2m1FgjFvl6i5niJTQqutdBdGCCu-NkXvKS4QroUQK/pub "Augments existing HelloWorld MPGW.")
