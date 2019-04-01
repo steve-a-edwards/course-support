@@ -34,6 +34,10 @@
 [Online Survey link - 2](http://www.metricsthatmatter.com/globalknne75 "Click this link to do the evaluation. Not available until the last day.")
 -->
 
+[Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
+
+[IBM DataPower courses](https://docs.google.com/document/d/e/2PACX-1vR2vYhwf0hIIcv_wf5W70dA1U0jQIQLSdzaFhK37i-aLfFX2xrjkhX7USh2nkuY5a1VD2RvJb_dxtnf/pub)
+
 [Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
 
 <!--
