@@ -1,4 +1,4 @@
-# WE751 - Course Extra - March, 2019 - London.
+# WE751 - Course Extra - May, 2019 - Lisbon.
 
 [Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
