@@ -24,7 +24,7 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
-[Student Survey link - WE751](https://mtm.cebglobal.com/url/u.aspx?205B8D681140497740)
+[Student Survey link - WE751](https://www.myincase.com/ICREPLY/StudentEvaluation.aspx)
 
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
