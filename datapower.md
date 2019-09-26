@@ -1,8 +1,8 @@
-# WE751 - Course Extra - May, 2019 - Lisbon.
+# WE751 - Course Extra - September, 2019 - Edinburgh.
 
 [Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
-[WE751 Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2019-05-29.md "Click this link to see the student links to the IRLP Labs.")  
+[WE751 Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2019-09-30.md "Click this link to see the student links to the IRLP Labs.")  
 
 
 [Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
