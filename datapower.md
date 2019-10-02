@@ -1,8 +1,8 @@
-# WE751 - Course Extra - March, 2019 - London.
+# WE751 - Course Extra - September, 2019 - Edinburgh.
 
 [Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
-[WE751 Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2019-03-25.md "Click this link to see the student links to the IRLP Labs.")  
+[WE751 Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2019-09-30.md "Click this link to see the student links to the IRLP Labs.")  
 
 
 [Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
@@ -24,7 +24,11 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
+<<<<<<< HEAD
 [Student Survey link - WE751](https://www.verhoef-training.co.uk/contact-us/course-eval)
+=======
+[Student Survey link - WE751](https://www.myincase.com/ICREPLY/StudentEvaluation.aspx)
+>>>>>>> branch 'master' of https://github.com/steve-a-edwards/course-support
 
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
@@ -92,7 +96,7 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/edit?usp=sharing "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
-[Sample DataPower Service Variables](https://github.com/steve-a-edwards/course-support/blob/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
+[Sample DataPower Service Variables](https://raw.githubusercontent.com/steve-a-edwards/we751/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
 
 ##### Following PDFs on Steve's Google Docs site  
 [DataPower Administrators Guide](https://drive.google.com/file/d/0B3s7NxeB9e0ZVnZ1UExMSnBxNUU/view?usp=sharing "XI50, 3.8.1, June 2010.")
