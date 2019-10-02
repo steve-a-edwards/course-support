@@ -24,11 +24,7 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
-<<<<<<< HEAD
 [Student Survey link - WE751](https://www.verhoef-training.co.uk/contact-us/course-eval)
-=======
-[Student Survey link - WE751](https://www.myincase.com/ICREPLY/StudentEvaluation.aspx)
->>>>>>> branch 'master' of https://github.com/steve-a-edwards/course-support
 
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
