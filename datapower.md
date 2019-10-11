@@ -4,12 +4,11 @@
 
 [WE761 Skytap student links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2019-10-14.md "Click this link to see the student links to the IRLP Labs.")  
 
-
-[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
-
 <!--
-[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
+[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 -->
+
+[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
 
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)
 
