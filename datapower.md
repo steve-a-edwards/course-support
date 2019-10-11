@@ -139,5 +139,4 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
 
-
-[_](https://mtm.cebglobal.com/url/u.aspx?61058F41E140497742)
+[_](https://github.com/steve-a-edwards/course-support/blob/master/gtt-details.md)
