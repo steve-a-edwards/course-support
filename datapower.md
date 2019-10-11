@@ -1,4 +1,4 @@
-# WE751 - Course Extra - September, 2019 - Edinburgh.
+# WE751 - Course Extra - October, 2019 - Remote Class.
 
 [Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
@@ -24,7 +24,9 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
+<!--
 [Student Survey link - WE751](https://www.verhoef-training.co.uk/contact-us/course-eval)
+-->
 
 <!--
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
