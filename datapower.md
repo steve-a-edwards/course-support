@@ -1,6 +1,6 @@
 # WE761 - Course Extra - October, 2019 - Remote Class.
 
-[Skytap / IRLP DataPower Lab Info](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
 [WE761 Skytap student links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2019-10-14.md "Click this link to see the student links to the IRLP Labs.")  
 
