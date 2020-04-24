@@ -33,9 +33,9 @@
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
 
-<!--
-[Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?D58CF4F37149441812 "Click this link to do the evaluation. Not available until the last day.")
--->
+
+[Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?45DD820E0156797163 "Click this link to do the evaluation. Not available until the last day.")
+
 
 [Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
 
@@ -142,4 +142,4 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
 
-[_](https://github.com/steve-a-edwards/course-support/blob/master/gtt-details.md)
+[_](https://www.metricsthatmatter.com/url/u.aspx?778783E6D156797165)
