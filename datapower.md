@@ -1,14 +1,15 @@
-# WE751 - Course Extra - April, 2019 - Remote Class.
+# WE751 - Course Extra - June, 2020 - Remote Class.
 
-[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+[A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2020-06-22.md "Click this link to see the student links to the IRLP Labs.")  
 
-[WE751 Skytap student links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2020-04-27.md "Click this link to see the student links to the IRLP Labs.")  
-
-[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
+[B - Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 
 <!--
 [Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
 -->
+
+[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+
 
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)
 
@@ -33,13 +34,13 @@
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
 
+[WE751 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?299ED15B6158756463 "Click this link to do the evaluation. Not available until the last day.")
 
-[Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?45DD820E0156797163 "Click this link to do the evaluation. Not available until the last day.")
-
+[WE761 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?4A3ADF9E3158756516 "Click this link to do the evaluation. Not available until the last day.")
 
 [Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
 
-[IBM DataPower courses](https://docs.google.com/document/d/e/2PACX-1vR2vYhwf0hIIcv_wf5W70dA1U0jQIQLSdzaFhK37i-aLfFX2xrjkhX7USh2nkuY5a1VD2RvJb_dxtnf/pub)
+[IBM DataPower courses](https://github.com/steve-a-edwards/course-support/blob/master/ibm-datapower-courses.md)
 
 [Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
 
@@ -136,10 +137,13 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 ---
 
+<!--
 [DataPower Monitoring Facility](http://www.escala-live.co.uk:84 "This is a DataPower-based service, using XMI to find the status of other DataPowers. Try the SVG links using Firefox or Chrome.")
+-->
 
 ---
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
 
-[_](https://www.metricsthatmatter.com/url/u.aspx?778783E6D156797165)
+[_](https://www.metricsthatmatter.com/url/u.aspx?F8F4D0739158756465)  
+[_](https://www.metricsthatmatter.com/url/u.aspx?74B61ED65158756518)  
