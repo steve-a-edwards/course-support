@@ -1,28 +1,28 @@
-# WE751 - Course Extra - June, 2020 - Remote Class.
+# WE761 - Course Extra - June, 2020 - Remote Class.
 
-[A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2020-06-22.md "Click this link to see the student links to the IRLP Labs.")  
-
-[B - Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
+[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2020-06-24.md "Click this link to see the student links to the IRLP Labs.")  
 
 <!--
-[Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
+[B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 -->
+
+[B - WE761 Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
 
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
 
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)
 
-
+<!--
 [WE751 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vSc_FPl2vCypuEtKs-822e7skjTG_PYZHI11TaQ9leyg_RYyzNU650hHm69KK2Vu2hkF9svULuCMOtT/pub)
+-->
 
 <!--
 [WE754 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vTph5P1nmoCDmLv_Ex6RaK61ZMek9Ob3qEEQT0a-z_xF7bGwuJ6xv8ospNaBBN7eMidPHFMnSVB_ask/pub)
 -->
 
-<!--
 [WE761 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vRcV7Rqh0NmXnPf9XZmW4kZQTY8a80-LhESSVonywK8csnDCr5Xmtz3O5bIcjqiijG0cbPM5sXL9xNm/pub)
--->
+
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
@@ -34,9 +34,17 @@
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
 
-[WE751 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?299ED15B6158756463 "Click this link to do the evaluation. Not available until the last day.")
+<hr/>
 
-[WE761 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?4A3ADF9E3158756516 "Click this link to do the evaluation. Not available until the last day.")
+<b>Survey Links</b>
+
+The following survey links will not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
+Also, the surveys are only available on the last day:
+
+[WE751 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?299ED15B6158756463)
+
+[WE761 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?4A3ADF9E3158756516)
+<hr/>
 
 [Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
 
@@ -44,12 +52,12 @@
 
 [Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
 
-<!--
+
 [Lab Files - WE761](https://drive.google.com/file/d/17as1hzon8vhXjre_6iY43FNfOWxgwzS1 "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
--->
 
+<!--
 [Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
-
+-->
 
 WE754 - Some of the key files in /usr/labfiles/dp/WSSecurity have expired.  
 Download all the files from this [location](https://github.com/steve-a-edwards/we754/tree/master/updated-keys) into the above folder.  
