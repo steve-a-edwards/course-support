@@ -52,12 +52,9 @@ Also, the surveys are only available on the last day:
 
 [Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
 
+[Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
 [Lab Files - WE761](https://drive.google.com/file/d/17as1hzon8vhXjre_6iY43FNfOWxgwzS1 "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
-
-<!--
-[Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
--->
 
 WE754 - Some of the key files in /usr/labfiles/dp/WSSecurity have expired.  
 Download all the files from this [location](https://github.com/steve-a-edwards/we754/tree/master/updated-keys) into the above folder.  
