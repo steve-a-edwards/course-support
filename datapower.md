@@ -1,6 +1,6 @@
-# WE761 - Course Extra - June, 2020 - Remote Class.
+# WE761 - Course Extra - February, 2022 - Remote Class.
 
-[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2020-06-24.md "Click this link to see the student links to the IRLP Labs.")  
+[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2022-02-28.md "Click this link to see the student links to the IRLP Labs.")  
 
 <!--
 [B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
@@ -35,7 +35,7 @@
 -->
 
 <hr/>
-
+<!--
 <b>Survey Links</b>
 
 The following survey links will not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
@@ -45,6 +45,7 @@ Also, the surveys are only available on the last day:
 
 [WE761 Online Survey link](https://www.metricsthatmatter.com/url/u.aspx?4A3ADF9E3158756516)
 <hr/>
+-->
 
 [Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
 
@@ -52,9 +53,9 @@ Also, the surveys are only available on the last day:
 
 [Alternative SLM driving SH command file](https://github.com/steve-a-edwards/we751/blob/master/driveSLM-WE751.sh)
 
-[Lab Files - WE751](https://drive.google.com/open?id=1SddqTzCAbi6CJFWpIviQlo9ul0KP4Wmn "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
+[Lab Files - WE751](https://drive.google.com/file/d/1iB-2_XFKUSKskYtp7r05huP5Cg8s1ELy/view?usp=sharing "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
-[Lab Files - WE761](https://drive.google.com/file/d/17as1hzon8vhXjre_6iY43FNfOWxgwzS1 "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
+[Lab Files - WE761](https://drive.google.com/file/d/1HjmIZruNDIUsfUJVMXeDKm8LhoHop9Es/view?usp=sharing "Take away lab files in a ZIP (click this link, then click Download link at the top right of the page).")
 
 WE754 - Some of the key files in /usr/labfiles/dp/WSSecurity have expired.  
 Download all the files from this [location](https://github.com/steve-a-edwards/we754/tree/master/updated-keys) into the above folder.  
@@ -68,9 +69,7 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [Adding bespoke logging capability](https://github.com/steve-a-edwards/we751/blob/master/extra-exercises/error-handling-log.xsl "Instructions are in the XSL file.")
 
-
 [Using Deployment Policy objects](https://docs.google.com/document/d/e/2PACX-1vQck_UzM3hvdgnGQLcRRUWkUQiGf1WpIiafDsS5D6J01LSbe1oerKW32xlrxQedoObZ64M6qrDlCn4Q/pub "See here")
-
 
 [GatewayScript logging example code](https://github.com/steve-a-edwards/GatewayScript-Examples/blob/master/7.2/console-log-own-category.js "Log entry triggering using specific category.")
 
@@ -92,13 +91,13 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 ---
 ## Further Resources
 
-[Course pre-requisite: VW750 on Youtube](https://www.youtube.com/watch?v=yYk5Bzuie4g "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).") - 
-[Download MP4](https://drive.google.com/file/d/1reYHhno9-ocaEMovpQPtnaYY4UwWaeQu/view "Download MP4")
-
+[Course pre-requisite: VW750 on MediaCenter](https://mediacenter.ibm.com/media/t/1_fb2tsml1 "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")
 
 [IBM DataPower Gateways Overview 7.0](https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c "More concise overview of DataPower and supported technologies.")
 
+<!-- MANY DEVELOPERWORKS ARTICLES REMOVED
 [References DataPower](https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0 "Compiled by Steve for over 10 years.")
+-->
 
 [HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/edit?usp=sharing "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
