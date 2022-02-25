@@ -1,0 +1,64 @@
+Hi Ertugrul, Mike, Patric,
+
+Hello, this is Steve Edwards, your instructor for the course next week.
+(WE761, 28th Feb to 2nd March 2022).
+
+Hope you are all doing well, and not too distracted by recent events!
+Here are some suggestions to help us all get off to a smoother start.
+
+Summary:
+1 - Reply immediately to this email so we have communications
+2 - Access your e-Book and check you can locate some specific pages
+3 - Send a text message to my mobile phone
+4 - Register and login to GTT (GoToTraining) before the start of the
+    first session (early Monday morning)
+5 - Start time on the first day
+
+Details:
+
+1 - Reply immediately to this email so we have communications
+ I'm recommending this so that:
+ - I know you have received this email and my suggestion to access the
+   book and specific pages (see images below)
+ - if needed, we can use email as a last resort throughout the course
+
+2 - Access your e-Book and check you can locate some specific pages
+ Before the start of the course (the sooner the better) download the
+ e-Book and check you can easily locate:
+ - "Course Guide Administration of IBM DataPower Gateway V7.6"
+   the document that has pages corresponding to the presentation slides
+   and the first page 
+ - "Course Exercises Guide Administration of IBM DataPower Gateway V7.6"
+   the document that has the course exercises (lab) instructions
+   and the first page
+You should have your information to allow you to access your e-Book already
+(ebook code).
+
+3 - Send a text message to my mobile phone
+Please do this when you have done the above. This will also provide a
+backup way of communicating in case of any internet problems during the
+running of the course.
+My work mobile: +44 (0)7513890221.
+
+4 - Register and login to GTT (GoToTraining) before the start of the
+    first session (early Monday morning)
+GTT is the platform that allows us to run the course remotely (similar
+to Zoom or Microsoft Teams).
+
+5 - Start time on the first day
+There are students from Sweden and the UK (on different time zones), so
+I suggest on the first day we start at 09:15GMT / 10:15CET, and ideally
+by that time you will have completed navigating around the course books
+and logged in to GTT!
+
+Have a great weekend!
+Steve
+Images added:
+WE761-Course-Guide-Front-Cover.JPG
+WE761-Course-Guide-FirstUnitStart.JPG
+WE761-Course-Exercises-Guide-Front-Cover.JPG
+WE761-Course-Exercises-Guide-FirstLabStart.JPG
+
+
+
+
