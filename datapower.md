@@ -151,6 +151,7 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 ---
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
-
-[_](https://www.metricsthatmatter.com/url/u.aspx?F8F4D0739158756465)  
-[_](https://www.metricsthatmatter.com/url/u.aspx?74B61ED65158756518)  
+<!-- MTM SE Instructor -->
+[_](https://www.metricsthatmatter.com/url/u.aspx?098BEFF00180786592)  
+<!-- MTM UK Instructor -->
+[_](https://www.metricsthatmatter.com/url/u.aspx?AA5EAC05B180789143)  
