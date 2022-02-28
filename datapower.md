@@ -93,13 +93,11 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [Course pre-requisite: VW750 on MediaCenter](https://mediacenter.ibm.com/media/t/1_fb2tsml1 "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")
 
-[IBM DataPower Gateways Overview 7.0](https://drive.google.com/open?id=0B3s7NxeB9e0ZelFETkRCWmZaT3c "More concise overview of DataPower and supported technologies.")
-
 <!-- MANY DEVELOPERWORKS ARTICLES REMOVED
 [References DataPower](https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0 "Compiled by Steve for over 10 years.")
 -->
 
-[HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/edit?usp=sharing "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
+[HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/view?usp=sharing&resourcekey=0-9VX854OHgMKo4h_yldTXbA "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
 [Sample DataPower Service Variables](https://raw.githubusercontent.com/steve-a-edwards/we751/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
 
