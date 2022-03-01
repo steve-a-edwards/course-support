@@ -91,6 +91,8 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 ---
 ## Further Resources
 
+[Steve's DataPower References](https://github.com/steve-a-edwards/course-support/blob/master/datapower-references.md "A list of references that Steve has compiled for over 12 years")  
+
 [Course pre-requisite: VW750 on MediaCenter](https://mediacenter.ibm.com/media/t/1_fb2tsml1 "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")
 
 <!-- MANY DEVELOPERWORKS ARTICLES REMOVED
