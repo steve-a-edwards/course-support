@@ -39,7 +39,8 @@
 <b>Survey Links - WE761G, Feb 2022</b>
 
 The following survey links will not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
-Also, the surveys are only available on the last day:
+Also, the surveys are only available on the last day.  
+You will be asked to Login, but all you need is your email (no password needed!):  
 
 [WE761 Online Survey link - Swedish students](https://www.metricsthatmatter.com/url/u.aspx?3B35E1D9D180786595)  
 [WE761 Online Survey link - UK student](https://www.metricsthatmatter.com/url/u.aspx?4F287CD4B180789141)  
