@@ -1,9 +1,9 @@
-Hi Ertugrul, Mike, Patric,
-
 Hello, this is Steve Edwards, your instructor for the course next week.
-(WE761, 28th Feb to 2nd March 2022).
+
+(WE751, 21st to 23rd March 2022).
 
 Hope you are all doing well, and not too distracted by recent events!
+
 Here are some suggestions to help us all get off to a smoother start.
 
 Summary:
@@ -15,29 +15,33 @@ Summary:
 5 - Start time on the first day
 
 Details:
-
 1 - Reply immediately to this email so we have communications
  I'm recommending this so that:
  - I know you have received this email and my suggestion to access the
-   book and specific pages (see images below)
+   books and specific pages (see images below)
  - if needed, we can use email as a last resort throughout the course
 
 2 - Access your e-Book and check you can locate some specific pages
  Before the start of the course (the sooner the better) download the
- e-Book and check you can easily locate:
- - "Course Guide Administration of IBM DataPower Gateway V7.6"
-   the document that has pages corresponding to the presentation slides
-   and the first page 
- - "Course Exercises Guide Administration of IBM DataPower Gateway V7.6"
-   the document that has the course exercises (lab) instructions
-   and the first page
-You should have your information to allow you to access your e-Book already
-(ebook code).
+ e-Book(s) and check you can easily locate:
+ - "Course Guide Essentials of Service Development for IBM DataPower
+    Gateway V7.5"
+    the document that has pages corresponding to the presentation slides
+    and the first page shown in the attached image
+ - "Course Exercises Guide Essentials of Service Development for IBM
+    DataPower Gateway V7.5"
+    the document that has the course exercises (lab) instructions and the
+    first page shown in the attached image.
+You should have your information to allow you to access your e-Book
+already (ebook code).
+
+PLEASE LOCATE THE TWO PAGES, THE START OF WHICH CAN BE
+SEEN IN THE ATTACHED IMAGES!
 
 3 - Send a text message to my mobile phone
 Please do this when you have done the above. This will also provide a
-backup way of communicating in case of any internet problems during the
-running of the course.
+backup way of communicating in case of any internet problems during
+the running of the course.
 My work mobile: +44 (0)7513890221.
 
 4 - Register and login to GTT (GoToTraining) before the start of the
@@ -46,18 +50,23 @@ GTT is the platform that allows us to run the course remotely (similar
 to Zoom or Microsoft Teams).
 
 5 - Start time on the first day
-There are students from Sweden and the UK (on different time zones), so
-I suggest on the first day we start at 09:15GMT / 10:15CET, and ideally
+I suggest on the first day we start at 09:00GMT / 10:00CET, and ideally
 by that time you will have completed navigating around the course books
 and logged in to GTT!
 
 Have a great weekend!
 Steve
 Images added:
-WE761-Course-Guide-Front-Cover.JPG
-WE761-Course-Guide-FirstUnitStart.JPG
-WE761-Course-Exercises-Guide-Front-Cover.JPG
-WE761-Course-Exercises-Guide-FirstLabStart.JPG
+
+=== WE751
+WE751-Course-Guide-FirstUnitStart.jpg
+WE751-Course-Exercises-Guide-FirstLabStart.jpg
+
+=== WE761
+WE761-Course-Guide-Front-Cover.jpg
+WE761-Course-Guide-FirstUnitStart.jpg
+WE761-Course-Exercises-Guide-Front-Cover.jpg
+WE761-Course-Exercises-Guide-FirstLabStart.jpg
 
 
 
