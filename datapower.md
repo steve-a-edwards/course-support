@@ -1,6 +1,6 @@
 # WE751 - Course Extra - March, 2022 - Remote Class.
 
-[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2022-02-28.md "Click this link to see the student links to the IRLP Labs.")  
+[A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2022-03-21.md "Click this link to see the student links to the IRLP Labs.")  
 
 [B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 
