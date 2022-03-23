@@ -34,22 +34,16 @@
 [Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
 -->
 
-
-<!--
 <hr/>
-<b>Survey Links - WE761G, Feb 2022</b>
+<b>Survey Links - WE751G, Mar 2022</b>
 
 The following survey links will not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
 Also, the surveys are only available on the last day.  
 You will be asked to Login, but all you need is your email (no password needed!):  
 
-[WE761 Online Survey link - Swedish students](https://www.metricsthatmatter.com/url/u.aspx?3B35E1D9D180786595)  
-[WE761 Online Survey link - UK student](https://www.metricsthatmatter.com/url/u.aspx?4F287CD4B180789141)  
-
--->
+[WE751 Online Students Survey link](https://www.metricsthatmatter.com/url/u.aspx?EBB99ADB1181298242)  
 
 <hr/>
-
 
 [Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
 
