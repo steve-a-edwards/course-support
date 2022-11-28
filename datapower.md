@@ -1,4 +1,4 @@
-# WE751 - Course Extra - March, 2022 - Remote Class.
+# WE751 - Course Extra - November, 2022 - Remote Class.
 
 [A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2022-03-21.md "Click this link to see the student links to the IRLP Labs.")  
 
