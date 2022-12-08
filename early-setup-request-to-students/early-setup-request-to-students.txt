@@ -1,6 +1,8 @@
+Subject: WE751 - DataPower Course Preparation before course starts
+
 Hello, this is Steve Edwards, your instructor for the course next week.
 
-(WE751, 21st to 23rd March 2022).
+(WE751, 12th to 14th December 2022).
 
 Hope you are all doing well, and not too distracted by recent events!
 
@@ -11,7 +13,7 @@ Summary:
 2 - Access your e-Book and check you can locate some specific pages
 3 - Send a text message to my mobile phone
 4 - Register and login to GTT (GoToTraining) before the start of the
-    first session (early Monday morning)
+    first session (early Monday morning - NOT BEFORE!)
 5 - Start time on the first day
 
 Details:
@@ -23,7 +25,7 @@ Details:
 
 2 - Access your e-Book and check you can locate some specific pages
  Before the start of the course (the sooner the better) download the
- e-Book(s) and check you can easily locate:
+ e-Book(s) and check you can easily locate (and bookmark for easy access):
  - "Course Guide Essentials of Service Development for IBM DataPower
     Gateway V7.5"
     the document that has pages corresponding to the presentation slides
@@ -42,10 +44,10 @@ SEEN IN THE ATTACHED IMAGES!
 Please do this when you have done the above. This will also provide a
 backup way of communicating in case of any internet problems during
 the running of the course.
-My work mobile: +44 (0)7513890221.
+My work mobile: +44 (0)775 4842046.
 
-4 - Register and login to GTT (GoToTraining) before the start of the
-    first session (early Monday morning)
+4 - MONDAY MORNING Register and login to GTT (GoToTraining) before the
+     start of the first session
 GTT is the platform that allows us to run the course remotely (similar
 to Zoom or Microsoft Teams).
 
@@ -67,7 +69,3 @@ WE761-Course-Guide-Front-Cover.jpg
 WE761-Course-Guide-FirstUnitStart.jpg
 WE761-Course-Exercises-Guide-Front-Cover.jpg
 WE761-Course-Exercises-Guide-FirstLabStart.jpg
-
-
-
-

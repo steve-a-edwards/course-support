@@ -1,6 +1,6 @@
-# WE751 - Course Extra - November, 2022 - Remote Class.
+# WE751 - Course Extra - December, 2022 - Remote Class.
 
-[A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2022-03-21.md "Click this link to see the student links to the IRLP Labs.")  
+[A - WE751 student remote lab links](https://github.com/steve-a-edwards/we751/blob/master/class-info/2022-12-12.md "Click this link to see the student links to the IRLP Labs.")  
 
 [B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 
@@ -26,14 +26,6 @@
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
-<!--
-[Student Survey link - WE751](https://www.verhoef-training.co.uk/contact-us/course-eval)
--->
-
-<!--
-[Online Survey link - WE751](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL162661)
--->
-
 <hr/>
 <b>Survey Links - WE751G, Mar 2022</b>
 
@@ -41,7 +33,7 @@ The following survey links will not work as expected using Chrome. Use instead F
 Also, the surveys are only available on the last day.  
 You will be asked to Login, but all you need is your email (no password needed!):  
 
-[WE751 Online Students Survey link](https://www.metricsthatmatter.com/url/u.aspx?EBB99ADB1181298242)  
+[WE751 Online Students Survey link](https://www.metricsthatmatter.com/url/u.aspx?415747F89191938376)  
 
 <hr/>
 
@@ -157,7 +149,5 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 ---
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
-<!-- MTM SE Instructor -->
-[_](https://www.metricsthatmatter.com/url/u.aspx?098BEFF00180786592)  
-<!-- MTM UK Instructor -->
-[_](https://www.metricsthatmatter.com/url/u.aspx?AA5EAC05B180789143)  
+<!-- MTM Instructor -->
+[_](https://www.metricsthatmatter.com/url/u.aspx?7BD3764FB191938374)  

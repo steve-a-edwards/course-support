@@ -1,6 +1,6 @@
 
 From Steve - GTT Registration / Joining / Exploration
-========================================
+=====================================================
 
 Please do all of the below before the formal start of the course at:
 09:15 GMT - 10:15 CET today.
@@ -12,7 +12,7 @@ for showing of presentations, talking, access to course resources, etc.
 especially useful for training.)
 
 Join the GTT session by clicking the "Join" button in a subsequent email:
-"Reminder: WE761 - ...".
+"Reminder: WE751 - ...".
 
 This should take you to a browser which will bring up an intervening page
 that allows you to test your audio, and when you have finished that, click
