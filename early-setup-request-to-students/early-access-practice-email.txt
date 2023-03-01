@@ -1,0 +1,39 @@
+Subject: Steve/WE751 - early practice accessing course facilities
+
+Familiarisation with the course facilities before 10:00 CET Monday:
+
+GTT - GoToTraining
+- it is presumed you are now able to access GTT
+- look at the materials available on this
+- download / open file '1-GTT-Access-Verification.txt'
+  will see Steve's favourite colour, note this ***
+- read the document 'First-Day-Prep.pdf'
+- read the document 'DataPower-Course-Labs-via-Skytap'
+- click / open  your student link 'Lab Link - {student name}'
+
+IBM Labs: WE751G
+- start both of VMs:
+  - A - Student Image (Ubuntu desktop)
+  - B - Appliance - DO NOT login (DataPower)
+- double-click 'A - Student Image' after it becomes green
+- on the Ubuntu desktop, open the file '2-Ubuntu-Access-Verification.txt'
+  you will see what sport Steve plays, note this ***
+
+DataPower
+- open Firefox, login to DataPower 'student01' / 'student01' selecting domain 'student01_domain'
+  (you will change the password, remember the new one!)
+- open up the DataPower 'File Management', view the file 'local:///3-DataPower-Access-Verification.txt'
+  you will see the name of the town I live in, note this ***
+
+***Now you will have accessed the main facilities of the course, to prove this, send an email to Steve
+to show that you know:
+- my favourite colour
+- my sport
+- my town
+
+The intention is that you can do all of the above before we formally start on Monday 10:00 CET.
+
+I will be logged in to GTT at 09:00 CET in case you need help before then.
+
+Cheers,
+Steve
