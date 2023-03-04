@@ -1,0 +1,68 @@
+Subject: WE761 - DataPower Course Preparation before course starts
+
+Hello, this is Steve Edwards, your instructor for the course next week.
+
+(WE761, 7th to 9th March 2023).
+
+Hope you are all doing well, and not too distracted by recent events!
+
+Here are some suggestions to help us all get off to a smoother start.
+
+Summary:
+1 - Reply immediately to this email so we have communications
+2 - Access your e-Book(s) and check you can locate some specific pages
+3 - Send a text message to my mobile phone
+4 - Open MS Teams before the start of the  first session
+5 - Start time on the first day
+Details are below.
+
+Details:
+1 - Reply immediately to this email so we have communications
+ I'm recommending this so that:
+ - I know you have received this email and my suggestion to access the
+   books and specific pages (see images listed below)
+ - if needed, we can use email as a last resort throughout the course
+
+2 - Access your e-Book(s) and check you can locate some specific pages
+ Before the start of the course (the sooner the better) download the
+ e-Book(s) and check you can easily locate (and bookmark for easy access):
+ - "Course Guide - Administration of IBM DataPower Gateway V7.6"
+    the document that has pages corresponding to the presentation slides
+    and the first page shown in the attached image
+ - "Course Exercises Guide - Administration of IBM DataPower Gateway V7.6"
+    the document that has the course exercises (lab) instructions and the
+    first page shown in the attached image.
+You should already have the information to allow you to access your e-Book(s)  
+(ebook code)  
+PLEASE LOCATE THE PAGES, THE START OF WHICH CAN BESEEN IN THE ATTACHED IMAGES!
+PLEASE NOTE: IF THERE ARE PROBLEMS ACCESSING THE EBOOK(S), CONTACT THE PERSON  
+WHO SUPPLIED THEM (Steve is unable to help you with this.)
+
+3 - Send a text message to my mobile phone
+Please do this when you have done the above. This will also provide a
+backup way of communicating in case of any internet problems during
+the running of the course.
+My work mobile: 0775 4842046.
+
+4 - TUESDAY MORNING access the MS Teams meeting before the
+     start of the first session
+Microsoft Teams is the platform that allows us to run the course remotely (similar
+to Zoom or GTT).
+
+5 - Start time on the first day
+I suggest on the first day we start at 09:30, and ideally
+by that time you will have completed navigating around the course books
+and logged in to MS Teams!
+
+Cheers,
+Steve
+Images attached:
+
+=== WE761
+Course Guide:
+- WE761-Course-Guide-Front-Cover.jpg
+- WE761-Course-Guide-FirstUnitStart.jpg
+
+Course Exercises Guide:
+- WE761-Course-Exercises-Guide-Front-Cover.jpg
+- WE761-Course-Exercises-Guide-FirstLabStart.jpg

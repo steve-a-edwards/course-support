@@ -1,9 +1,9 @@
-Subject: Steve/WE751 - early practice accessing course facilities
+Subject: Steve/WE761 - early practice accessing course facilities
 
-Familiarisation with the course facilities before 10:00 CET Monday:
+Familiarisation with the course facilities before 10:00 Tuesday:
 
-GTT - GoToTraining
-- it is presumed you are now able to access GTT
+MS Teams
+- it is presumed you are now able to access MS Teams
 - look at the materials available on this
 - download / open file '1-GTT-Access-Verification.txt'
   will see Steve's favourite colour, note this ***
@@ -11,7 +11,7 @@ GTT - GoToTraining
 - read the document 'DataPower-Course-Labs-via-Skytap'
 - click / open  your student link 'Lab Link - {student name}'
 
-IBM Labs: WE751G
+IBM Labs: WE761G
 - start both of VMs:
   - A - Student Image (Ubuntu desktop)
   - B - Appliance - DO NOT login (DataPower)
@@ -31,9 +31,9 @@ to show that you know:
 - my sport
 - my town
 
-The intention is that you can do all of the above before we formally start on Monday 10:00 CET.
+The intention is that you can do all of the above before we formally start on Tuesday 09:30.
 
-I will be logged in to GTT at 09:00 CET in case you need help before then.
+I will be logged in to MS Teams at 09:00 in case you need help before then.
 
 Cheers,
 Steve
