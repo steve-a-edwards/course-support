@@ -8,9 +8,11 @@
 
 [B - WE761 Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
 
-
+<!--
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+-->
 
+[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRfcRi5qFMsw68MmigTQtwYEUkgZ8cSWg8fRMqmce_HBcVvzcIVV94Bo__W17Qhu13LueWhuWz5CrQL/pub?slide=id.p "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)
 
