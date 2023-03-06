@@ -6,16 +6,20 @@
 [B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
 -->
 
-[B - WE761 Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
+<!-- [B - WE761 Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
+-->
+[B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
+
 
 <!--
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 -->
 
-[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRfcRi5qFMsw68MmigTQtwYEUkgZ8cSWg8fRMqmce_HBcVvzcIVV94Bo__W17Qhu13LueWhuWz5CrQL/pub?slide=id.p "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+[Skytap / IRLP Lab Overview Presentation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Labs-via-Skytap.pdf "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
+<!--
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)  
-
+-->
 [Pre-course intro by Steve Edwards](https://github.com/steve-a-edwards/course-support/blob/master/Pre-Course-Intro.pdf)  
 
 
@@ -27,7 +31,7 @@
 [WE754 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vTph5P1nmoCDmLv_Ex6RaK61ZMek9Ob3qEEQT0a-z_xF7bGwuJ6xv8ospNaBBN7eMidPHFMnSVB_ask/pub)
 -->
 
-[WE761 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vRcV7Rqh0NmXnPf9XZmW4kZQTY8a80-LhESSVonywK8csnDCr5Xmtz3O5bIcjqiijG0cbPM5sXL9xNm/pub)
+[WE761 Exercise Notes and Errata](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Exercise-Notes-and-Errata.pdf)
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
