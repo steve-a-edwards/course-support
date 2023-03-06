@@ -1,10 +1,22 @@
 Subject: Steve/WE761 - early practice accessing course facilities
 
+=== START - NOTE TO INSTRUCTOR ---
+BEFORE SENDING EMAIL, put the following link in MS Teams chat:
+1-MS-Teams-Access-Verification.txt
+https://github.com/steve-a-edwards/course-support/blob/master/early-setup-request-to-students/1-MS-Teams-Access-Verification.txt
+
+First-Day-Prep.pdf
+https://github.com/steve-a-edwards/course-support/blob/master/First-Day-Prep.pdf
+
+DataPower-Course-Labs-via-Skytap
+https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Labs-via-Skytap.pdf
+===END
+
 Familiarisation with the course facilities before 10:00 Tuesday:
 
 MS Teams
 - it is presumed you are now able to access MS Teams
-- look at the materials available on this
+- look at the materials available on this (via chat on MS Teams)
 - download / open file '1-GTT-Access-Verification.txt'
   will see Steve's favourite colour, note this ***
 - read the document 'First-Day-Prep.pdf'
@@ -13,14 +25,14 @@ MS Teams
 
 IBM Labs: WE761G
 - start both of VMs:
-  - A - Student Image (Ubuntu desktop)
-  - B - Appliance - DO NOT login (DataPower)
+  - A - 'Student Image' (Ubuntu desktop image)
+  - B - 'Appliance - DO NOT login' (DataPower image)
 - double-click 'A - Student Image' after it becomes green
 - on the Ubuntu desktop, open the file '2-Ubuntu-Access-Verification.txt'
   you will see what sport Steve plays, note this ***
 
 DataPower
-- open Firefox, login to DataPower 'student01' / 'student01' selecting domain 'student01_domain'
+- open Firefox, login to DataPower 'student01' / 'student01' selecting domain 'default'
   (you will change the password, remember the new one!)
 - open up the DataPower 'File Management', view the file 'local:///3-DataPower-Access-Verification.txt'
   you will see the name of the town I live in, note this ***

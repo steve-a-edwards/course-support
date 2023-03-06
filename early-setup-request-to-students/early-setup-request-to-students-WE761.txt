@@ -1,6 +1,6 @@
 Subject: WE761 - DataPower Course Preparation before course starts
 
-Hello, this is Steve Edwards, your instructor for the course next week.
+Hello, this is Steve Edwards, your instructor for the course.
 
 (WE761, 7th to 9th March 2023).
 
@@ -12,7 +12,7 @@ Summary:
 1 - Reply immediately to this email so we have communications
 2 - Access your e-Book(s) and check you can locate some specific pages
 3 - Send a text message to my mobile phone
-4 - Open MS Teams before the start of the  first session
+4 - Open MS Teams before the start of the first session
 5 - Start time on the first day
 Details are below.
 
@@ -44,15 +44,14 @@ backup way of communicating in case of any internet problems during
 the running of the course.
 My work mobile: 0775 4842046.
 
-4 - TUESDAY MORNING access the MS Teams meeting before the
-     start of the first session
+4 - TUESDAY MORNING access the MS Teams meeting before the start.
 Microsoft Teams is the platform that allows us to run the course remotely (similar
 to Zoom or GTT).
 
 5 - Start time on the first day
 I suggest on the first day we start at 09:30, and ideally
 by that time you will have completed navigating around the course books
-and logged in to MS Teams!
+and logged into MS Teams!
 
 Cheers,
 Steve
