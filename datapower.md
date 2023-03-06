@@ -42,11 +42,11 @@ The following survey links may not work as expected using Chrome. Use instead Fi
 Also, the surveys are only available on the last day.  
 You will be asked to Login, but all you need is your email (no password needed!):  
 
-[WE761 Online Students Survey link](https://www.google.com/url?q=https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID%3DUK269815&sa=D&source=calendar&usd=2&usg=AOvVaw1UkS7c3J-ROJVu0ngFot8P)  
+[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID%3DUK269815&sa=D&source=calendar&usd=2&usg=AOvVaw1UkS7c3J-ROJVu0ngFot8P)  
 
 <hr/>
 
-[Background technologies](https://docs.google.com/document/d/e/2PACX-1vRz55FiP8rMVwP3HkDDJZP8r0CJWfd5vmHAk6H6kuVUlRe1d9jnxJZkRFHXGUxCZlcZzqfyj3yL78hH/pub)
+[Background technologies](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Background.pdf)
 
 [IBM DataPower courses](https://github.com/steve-a-edwards/course-support/blob/master/ibm-datapower-courses.md)
 
@@ -59,26 +59,24 @@ You will be asked to Login, but all you need is your email (no password needed!)
 WE754 - Some of the key files in /usr/labfiles/dp/WSSecurity have expired.  
 Download all the files from this [location](https://github.com/steve-a-edwards/we754/tree/master/updated-keys) into the above folder.  
 
-[Docker setup for WE751](https://docs.google.com/document/d/e/2PACX-1vRV0CsvOjrHi73y9rSqdbWtAUuw_CKY9FUx7N1cJYDU1e7i2ekiqACknU2c2bjBKIt_mLxxYMnicQqc/pub)
-
 ---
 ## Exercise Extras
 
-[Basic Familiarisation with DataPower WebGUI](https://docs.google.com/document/d/13rxAq57LTh6gDvXbtAWtdGpq71U8hvMJYro-DQ3Ax-s/pub "Exploring DataPower features.")
+[Basic Familiarisation with DataPower WebGUI](https://github.com/steve-a-edwards/course-support/blob/master/Initial-DataPower-Exploration.pdf "Exploring DataPower features.")
 
 [Adding bespoke logging capability](https://github.com/steve-a-edwards/we751/blob/master/extra-exercises/error-handling-log.xsl "Instructions are in the XSL file.")
 
-[Using Deployment Policy objects](https://docs.google.com/document/d/e/2PACX-1vQck_UzM3hvdgnGQLcRRUWkUQiGf1WpIiafDsS5D6J01LSbe1oerKW32xlrxQedoObZ64M6qrDlCn4Q/pub "See here")
+[Using Deployment Policy objects](https://github.com/steve-a-edwards/course-support/blob/master/DeploymentPolicy-ExtraExercise.pdf "See here")
 
 [GatewayScript logging example code](https://github.com/steve-a-edwards/GatewayScript-Examples/blob/master/7.2/console-log-own-category.js "Log entry triggering using specific category.")
 
-[Using an AAA Policy to Authenticate and Authorize messages](https://docs.google.com/document/d/e/2PACX-1vRiP1KJbHpwNsOv0VZVLGrGWO2Fxm0U5WhuX_q2m1FgjFvl6i5niJTQqutdBdGCCu-NkXvKS4QroUQK/pub "Augments existing HelloWorld MPGW.")
+[Using an AAA Policy to Authenticate and Authorize messages](https://github.com/steve-a-edwards/course-support/blob/master/AAAPolicy-Extra-Exercise.pdf "Augments existing HelloWorld MPGW.")
 
-[Extra-DP-Development-Exercises](https://docs.google.com/document/d/e/2PACX-1vSGRFk7b1xfEF9JlFCshlwBeLtSViPqjEAJ8qTc9A1EkeK3R9uyRYrMXY1_wqJ8SphjKFj1lIT2mxPf/pub "HTTP Service, side calls ... .")
+[Extra DP Development Exercises](https://github.com/steve-a-edwards/course-support/blob/master/Extra-DP-Development-Exercises.pdf "HTTP Service, side calls ... .")
 
-[Certificate Monitor Exercise](https://docs.google.com/document/d/1__F2cUCBpwJQhDnasWLTCYUUo3Cym_YU3R-fQmtxQKw/pub "This exercise require logging in as user *sysadmin*.")
+[Certificate Monitor Exercise](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-Exercise.pdf "This exercise require logging in as user *sysadmin*.")
 
-[CLI command file to export a domain and copy to Linux workstation](https://docs.google.com/document/d/e/2PACX-1vQiDAh-grlfECZpVXCELdN6AUxScO8uNEjGaJiAIbXywUDLRQtSca_i88X54h3yClpeQf5RJ_WXJjIX/pub)   
+[CLI command file to export a domain and copy to Linux workstation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Backup-and-Copy-Externally-Script.pdf)   
 (** DataPower Command Reference - see below to download.)
 
 [Linux command script to make an XMI remote call to trigger a DataPower script (the one above)](https://github.com/steve-a-edwards/we761/blob/master/sample-sh-code/xmi-ExecConfig.sh)   
@@ -97,7 +95,7 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 [References DataPower](https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0 "Compiled by Steve for over 10 years.")
 -->
 
-[HTTP Sample Packets](https://drive.google.com/file/d/0B3s7NxeB9e0ZdkN0bERRZjZGZm8/view?usp=sharing&resourcekey=0-9VX854OHgMKo4h_yldTXbA "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
+[HTTP Sample Packets](https://github.com/steve-a-edwards/course-support/blob/master/Sample-HTTP-Combined.pdf "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
 [Sample DataPower Service Variables](https://raw.githubusercontent.com/steve-a-edwards/we751/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
 
@@ -119,9 +117,9 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 ---
 ## Exercise More Extras and Solutions
 
-[Using Docker-based DataPower for course labs](https://docs.google.com/document/d/e/2PACX-1vRV0CsvOjrHi73y9rSqdbWtAUuw_CKY9FUx7N1cJYDU1e7i2ekiqACknU2c2bjBKIt_mLxxYMnicQqc/pub "Shows how to set up a Docker-based DataPower and carry out the course labs.")
+[Using Docker-based DataPower for course labs](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Docker-Lab-Setup.pdf "Shows how to set up a Docker-based DataPower and carry out the course labs..")
 
-[Certificate Monitor Solution](https://docs.google.com/document/d/1gJw9D7yPTKfvnNKHPTiRO5rIrA90y9UtlGkQyYyEWZc/pub)
+[Certificate Monitor Solution](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-CLI-Solution.pdf)
 
 [Cert Monitor HTTP Service](https://docs.google.com/document/d/1gnTpya776wh0nYOhPBWPvZOwKrrBn34Ndl6lAjhO0Cw/pub "A service giving access to a log file, without having to login to DataPower.")
 
@@ -147,7 +145,6 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [Custom UI file](https://github.com/steve-a-edwards/we761/blob/master/various/se-custom-ui.xml)
 
-
 ---
 
 <!--
@@ -157,5 +154,4 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 ---
 
 This page is published on web as file *datapower.md* on: <https://github.com/steve-a-edwards/course-support>  
-<!-- MTM Instructor -->
-[_](https://www.metricsthatmatter.com/url/u.aspx?7BD3764FB191938374)  
+ 
