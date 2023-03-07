@@ -100,9 +100,11 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 [Sample DataPower Service Variables](https://raw.githubusercontent.com/steve-a-edwards/we751/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
 
 ##### Following PDFs of old (but useful) IBM Redbooks on Steve's Github site  
- *DataPower Administrators Guide*  
- *DataPower Command Reference*  
- *DataPower Extension Functions*  
+ *Administrators Guide*  
+ *Command Reference*  
+ *WebSphere DataPower SOA Appliance: The XML Management Interface*  
+ *Extension Elements and Functions Catalog*  
+ 
 at this location: [Git link](https://github.com/steve-a-edwards/course-support/tree/master/redbooks)
 <!--
 [DataPower Administrators Guide](https://drive.google.com/file/d/0B3s7NxeB9e0ZVnZ1UExMSnBxNUU/view?usp=sharing "XI50, 3.8.1, June 2010.")
