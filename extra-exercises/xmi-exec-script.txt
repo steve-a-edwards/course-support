@@ -1,0 +1,62 @@
+DataPower CLI, exec, XMI Extra Exercise
+
+CLI, exec, XMI are all separate capabilities of DataPower. CLI is a command line
+approach using a terminal connection to the DataPower. When you use exec, this is
+also command line, it runs a script that calls lines of CLI.
+XMI is different, and does not call CLI, but has its own SOAP (XML) format that
+can create, modify, delete, get info about objects on the DataPower.
+The last part of this exercise, though, shows how XMI can also remotely call
+an exec script.
+
+This extra exercise is intended to make you more comfortable with using various
+capabilies and commands of DataPower. Each stage is meant to be tried out
+individually, and overall to make you more self-sufficient in various DataPower
+activities in combination.
+
+A - Using CLI to delete a file
+Create a file 'my-file.txt' on your workstation (any content).
+Using the WebGUI, upload the file to 'default' domain 'local://' folder.
+Using the WebGUI, open up that file to confirm it has your content, then close.
+Open a terminal window and ssh to the DataPower, and go into configuration mode.
+List the files in the 'local:///' folder:
+    dir local:
+Display contents of the file:
+  show file local:///my-file.txt
+Delete the file:
+  del local:///my-file.txt
+You have now seen how to delete a file using CLI.
+
+B - Using a script file to delete a file and put an entry on the default-log
+Create a script file 'delete-my-file.cfg' on your workstation  with content:
+  del local:///my-file.txt
+  test logging file notice "Deleted file myfile.txt"
+Using the WebGUI, upload the two files 'my-file.txt', 'delete-my-file.cfg' 
+to 'default' domain 'local://' folder.
+Open a terminal window and ssh to the DataPower again.
+Check the two files are in the 'default' domain in the 'local:///' folder.
+  dir local:
+Now run the script file:
+  exec local:///delete-my-file.cfg
+Check the file 'my-file.txt' has been deleted.
+Check that entry has been made to 'default-log':
+  show logging default-log file
+Also view that same entry using the WebGUI.
+  
+C - Use XMI to call the above script from your workstation
+Using the WebGUI, upload 'my-file.txt' to 'default' domain 'local://' folder.
+
+Create an XMI file on the workstation with the following content:
+  <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+          <S:Body>
+                  <dp:request xmlns:dp="http://www.datapower.com/schemas/management" domain="default">
+                          <dp:do-action>
+                                  <ExecConfig>
+                                          <URL>local:///delete-my-file.cfg</URL>
+                                  </ExecConfig>
+                          </dp:do-action>
+                  </dp:request>
+          </S:Body>
+  </S:Envelope>
+
+Run the cURL command on the workstation that sends the above to the DataPower.
+After running this, check that the file has been deleted and the log entry made.
