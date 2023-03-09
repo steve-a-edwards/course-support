@@ -117,7 +117,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 -->
 
 ---
-## Exercise More Extras and Solutions
+## More Extra Exercises and Solutions
 
 [Using Docker-based DataPower for course labs](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Docker-Lab-Setup.pdf "Shows how to set up a Docker-based DataPower and carry out the course labs..")
 
@@ -129,7 +129,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [(NOT currently working) Extension Functions example](https://docs.google.com/document/d/1hQnJWln_Dom4sadZpwgQQi7IwJAMJ0l2TOn53Ik2gcY/pub)
 
-[Extra CLI Exercise](https://docs.google.com/document/d/1zjyVUejlf5z8ccDGr1RlcCsiLVt1qFDK7we6FNODsA4/pub)
+[Extra CLI, exec, XMI Exercise](https://github.com/steve-a-edwards/course-support/blob/master/extra-exercises/xmi-exec-script.txt)
 
 [Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://docs.google.com/document/d/1q9slRFciYfYjxjn7hC2PnFK_dd5R5P63kbiGP_ow8ZM/pub "CLI to change configuration in another domain: change-configuration-studentnn_import_domain.cfg") 
 
@@ -146,6 +146,11 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 [XMI get contents of a folder in a specific domain in DataPower - GetFilestore](https://docs.google.com/document/d/1JsSblUBIcpjOeGhJkHpKfuhqBF4szC8hAW4NBLuGL_o/pub)
 
 [Custom UI file](https://github.com/steve-a-edwards/we761/blob/master/various/se-custom-ui.xml)
+
+
+OLD do not use:  
+[Extra CLI Exercise](https://docs.google.com/document/d/1zjyVUejlf5z8ccDGr1RlcCsiLVt1qFDK7we6FNODsA4/pub)
+
 
 ---
 
