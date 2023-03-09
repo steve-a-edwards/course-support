@@ -1,15 +1,12 @@
-# WE761 - Course Extra - March, 2023 - Remote Class.
+# WE751 - Course Extra - April / May, 2023 - Remote Class.
 
 [A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2023-03-07.md "Click this link to see the student links to the IRLP Labs.")  
 
+[B - WE75x Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE751-WE752-WE753-WE754-Variables-and-Ports.pdf "Values for WE751, WE752, WE753, WE754 Exercises.")
+
 <!--
-[B - WE75x Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vS5lZHs2tdYqQfV69FIBwk8be_IxIjSFe_7h_72iavp4TElK0f8QCEsmmosyn3Z5VYcOEAQ8QUT4XVD/pub "Values for WE751, WE752, WE753, WE754 Exercises.")
--->
-
-<!-- [B - WE761 Variables, Ports, Users, Passwords](https://docs.google.com/document/d/e/2PACX-1vT1Gi9H_yZ9wy3LbPkOwBY-dJ45IjGUjDZVtJTt1GyKFTMmhJjUoZZ8DK6_CfZdLJq4Un8oJ0YIIs_1/pub "Values for WE761 Exercises.")
--->
 [B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
-
+-->
 
 <!--
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
