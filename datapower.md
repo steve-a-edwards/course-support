@@ -42,7 +42,7 @@ The following survey links may not work as expected using Chrome. Use instead Fi
 Also, the surveys are only available on the last day.  
 You will be asked to Login, but all you need is your email (no password needed!):  
 
-[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID%3DUK269815&sa=D&source=calendar&usd=2&usg=AOvVaw1UkS7c3J-ROJVu0ngFot8P)  
+[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK269815)  
 
 <hr/>
 
