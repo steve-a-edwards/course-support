@@ -126,7 +126,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [(NOT currently working) Extension Functions example](https://docs.google.com/document/d/1hQnJWln_Dom4sadZpwgQQi7IwJAMJ0l2TOn53Ik2gcY/pub)
 
-[Extra CLI, exec, XMI Exercise](https://github.com/steve-a-edwards/course-support/blob/master/extra-exercises/xmi-exec-script.txt)
+[Extra CLI, exec, XMI Exercise](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/xmi-exec-script.txt)
 
 [Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://docs.google.com/document/d/1q9slRFciYfYjxjn7hC2PnFK_dd5R5P63kbiGP_ow8ZM/pub "CLI to change configuration in another domain: change-configuration-studentnn_import_domain.cfg") 
 
