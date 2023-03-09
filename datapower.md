@@ -20,15 +20,15 @@
 [Pre-course intro by Steve Edwards](https://github.com/steve-a-edwards/course-support/blob/master/Pre-Course-Intro.pdf)  
 
 
-<!--
-[WE751 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vSc_FPl2vCypuEtKs-822e7skjTG_PYZHI11TaQ9leyg_RYyzNU650hHm69KK2Vu2hkF9svULuCMOtT/pub)
--->
+[WE751 Exercise Notes and Errata](https://github.com/steve-a-edwards/course-support/blob/master/WE751-Exercise-Notes-and-Errata.pdf)
 
 <!--
 [WE754 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vTph5P1nmoCDmLv_Ex6RaK61ZMek9Ob3qEEQT0a-z_xF7bGwuJ6xv8ospNaBBN7eMidPHFMnSVB_ask/pub)
 -->
 
+<!--
 [WE761 Exercise Notes and Errata](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Exercise-Notes-and-Errata.pdf)
+-->
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
