@@ -12,7 +12,7 @@
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 -->
 
-[Skytap / IRLP Lab Overview Presentation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Labs-via-Skytap.pdf "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+[Skytap / IRLP Lab Overview Presentation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-via-Skytap.pdf "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
 <!--
 [Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)  
