@@ -136,7 +136,11 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [Java calling XMI FileUpload function](https://docs.google.com/document/d/1K4S1LXZTq5YMtuKLZFBS2zAYiWIH0OMCvgkfzlcbif4/pub "FileUpload-Using-WSDL-Generated-Java.")
 
+<!--
 [GatewayScript Example  - JSON to SOAP](https://docs.google.com/document/d/1QB_nugvVLhaJ6OmLXUgb5J-WHhmB9T6SqmV3Bn4_G6o/pub)  
+-->
+[GatewayScript Example  - JSON to SOAP](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/json-soap.js)  
+
 
 [XMI to run a CLI script already on DataPower - ExecConfig](https://docs.google.com/document/d/1UNOIY4jWCPZajk0dQ0q06_rbnejOAiNwddqywpttv10/pub)
 
