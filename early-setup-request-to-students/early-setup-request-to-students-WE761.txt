@@ -2,14 +2,14 @@ Subject: WE761 - DataPower Course Preparation before course starts
 
 Hello, this is Steve Edwards, your instructor for the course.
 
-(WE761, 7th to 9th March 2023).
+(WE761, 2nd to 4th May 2023).
 
 Hope you are all doing well, and not too distracted by recent events!
 
 Here are some suggestions to help us all get off to a smoother start.
 
 Summary:
-1 - Reply immediately to this email so we have communications
+1 - Reply asap to this email so we have communications
 2 - Access your e-Book(s) and check you can locate some specific pages
 3 - Send a text message to my mobile phone
 4 - Open MS Teams before the start of the first session
@@ -17,14 +17,14 @@ Summary:
 Details are below.
 
 Details:
-1 - Reply immediately to this email so we have communications
+1 - Reply asap to this email so we have communications
  I'm recommending this so that:
  - I know you have received this email and my suggestion to access the
    books and specific pages (see images listed below)
  - if needed, we can use email as a last resort throughout the course
 
 2 - Access your e-Book(s) and check you can locate some specific pages
- Before the start of the course (the sooner the better) download the
+Before the start of the course (the sooner the better) download the
  e-Book(s) and check you can easily locate (and bookmark for easy access):
  - "Course Guide - Administration of IBM DataPower Gateway V7.6"
     the document that has pages corresponding to the presentation slides
@@ -42,7 +42,7 @@ WHO SUPPLIED THEM (Steve is unable to help you with this.)
 Please do this when you have done the above. This will also provide a
 backup way of communicating in case of any internet problems during
 the running of the course.
-My work mobile: 0775 4842046.
+My work mobile: 07754 842046.
 
 4 - TUESDAY MORNING access the MS Teams meeting before the start.
 Microsoft Teams is the platform that allows us to run the course remotely (similar
