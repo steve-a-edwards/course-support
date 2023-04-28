@@ -1,12 +1,12 @@
-# WE751 - Course Extra - April / May, 2023 - Remote Class.
+# WE761 - Course Extra - May, 2023 - Remote Class.
 
-[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2023-03-07.md "Click this link to see the student links to the IRLP Labs.")  
-
-[B - WE75x Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE751-WE752-WE753-WE754-Variables-and-Ports.pdf "Values for WE751, WE752, WE753, WE754 Exercises.")
+[A - WE761 student remote lab links](https://github.com/steve-a-edwards/we761/blob/master/class-info/2023-05-02.md "Click this link to see the student links to the IRLP Labs.")  
 
 <!--
-[B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
+[B - WE75x Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE751-WE752-WE753-WE754-Variables-and-Ports.pdf "Values for WE751, WE752, WE753, WE754 Exercises.")
 -->
+
+[B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
 
 <!--
 [Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
@@ -19,28 +19,28 @@
 -->
 [Pre-course intro by Steve Edwards](https://github.com/steve-a-edwards/course-support/blob/master/Pre-Course-Intro.pdf)  
 
-
+<!--
 [WE751 Exercise Notes and Errata](https://github.com/steve-a-edwards/course-support/blob/master/WE751-Exercise-Notes-and-Errata.pdf)
+-->
 
 <!--
 [WE754 Exercise Notes and Errata](https://docs.google.com/document/d/e/2PACX-1vTph5P1nmoCDmLv_Ex6RaK61ZMek9Ob3qEEQT0a-z_xF7bGwuJ6xv8ospNaBBN7eMidPHFMnSVB_ask/pub)
 -->
 
-<!--
 [WE761 Exercise Notes and Errata](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Exercise-Notes-and-Errata.pdf)
--->
 
 [Online student questions, input](https://docs.google.com/document/d/1sSljg4K5qNYO0lbjifHV2Xim9MvnJn3sNtFL7Gb5z00/edit?usp=sharing).
 
 <hr/>
-<b>Survey Links - WE761G, Mar 2023</b>
+<b>Survey Links - WE761G, May 2023</b>
 
-The following survey links may not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
+NOT AVAILABLE YET: The following survey links may not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
 Also, the surveys are only available on the last day.  
 You will be asked to Login, but all you need is your email (no password needed!):  
 
+<!--
 [WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK269815)  
-
+-->
 <hr/>
 
 [Background technologies](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Background.pdf)
@@ -71,7 +71,7 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [Extra DP Development Exercises](https://github.com/steve-a-edwards/course-support/blob/master/Extra-DP-Development-Exercises.pdf "HTTP Service, side calls ... .")
 
-[Certificate Monitor Exercise](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-Exercise.pdf "This exercise require logging in as user *sysadmin*.")
+[Certificate Monitor Exercise](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-Exercise.cfg "This exercise require logging in as user *sysadmin*.")
 
 [CLI command file to export a domain and copy to Linux workstation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Backup-and-Copy-Externally-Script.pdf)   
 (** DataPower Command Reference - see below to download.)
@@ -118,21 +118,21 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [Using Docker-based DataPower for course labs](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Docker-Lab-Setup.pdf "Shows how to set up a Docker-based DataPower and carry out the course labs..")
 
-[Certificate Monitor Solution](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-CLI-Solution.pdf)
+[Certificate Monitor Solution](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-CLI-Solution.cfg)  
 
-[Cert Monitor HTTP Service](https://docs.google.com/document/d/1gnTpya776wh0nYOhPBWPvZOwKrrBn34Ndl6lAjhO0Cw/pub "A service giving access to a log file, without having to login to DataPower.")
+[Cert Monitor HTTP Service](https://github.com/steve-a-edwards/course-support/blob/master/Cert-Monitor-HTTP-Service.cfg "A service giving access to a log file, without having to login to DataPower.")
 
-[Certificate Monitor CLI external syslog](https://docs.google.com/document/d/1lKNC6ehkyI7NrjT75sb-OvDVRT7nSNpR9eJSxSjdJf0/pub)
+[Certificate Monitor CLI external syslog](https://github.com/steve-a-edwards/course-support/blob/master/Certificate-Monitor-CLI-external-syslog.cfg)
 
 [(NOT currently working) Extension Functions example](https://docs.google.com/document/d/1hQnJWln_Dom4sadZpwgQQi7IwJAMJ0l2TOn53Ik2gcY/pub)
 
 [Extra CLI, exec, XMI Exercise](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/xmi-exec-script.txt)
 
-[Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://docs.google.com/document/d/1q9slRFciYfYjxjn7hC2PnFK_dd5R5P63kbiGP_ow8ZM/pub "CLI to change configuration in another domain: change-configuration-studentnn_import_domain.cfg") 
+[Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://github.com/steve-a-edwards/course-support/blob/master/change-configuration-studentnn_import_domain.cfg "CLI to change configuration in another domain.") 
 
-[Curl calling XMI *set-file* to upload a file](https://docs.google.com/document/d/1LBxDBO_tXPUiWBGeH66qRd5gMNVky-PqPsOoxstUZBA/edit?usp=sharing)  
+[Curl calling XMI *set-file* to upload a file](https://github.com/steve-a-edwards/course-support/blob/master/xmi-file-send.xml)  
 
-[Java calling XMI Ping function](https://docs.google.com/document/d/1y7jkuigh-pXSOE8xQDjaTolRPOpUCkHSHtpfUU87yoE/pub "Ping-Using-WSDL-Generated-Java.")
+[Java calling XMI Ping function](https://github.com/steve-a-edwards/course-support/blob/master/Ping-Using-WSDL-Generated-Java.java "Ping-Using-WSDL-Generated-Java.")
 
 [Java calling XMI FileUpload function](https://docs.google.com/document/d/1K4S1LXZTq5YMtuKLZFBS2zAYiWIH0OMCvgkfzlcbif4/pub "FileUpload-Using-WSDL-Generated-Java.")
 

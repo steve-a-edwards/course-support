@@ -1,0 +1,16 @@
+<!--
+  Filename "xmi-file-send.xml".
+  This is an example of using XMI to upload a file to a DataPower folder (local:///hello.txt").
+  The file content needs to be text converted to base64 encoding.
+  curl -k -u admin:admin -d @xmi-file-send.xml https://dp_ip:5550/service/mgmt/current
+  Utility to convert text to base64: https://www.base64decode.org/
+  "Hello" encoded to base64 is "SGVsbG8="
+-->
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <dp:request xmlns:dp="http://www.datapower.com/schemas/management" domain="default">
+      <dp:set-file name="local:///hello.txt">SGVsbG8=</dp:set-file>	
+    </dp:request>
+  </S:Body>
+</S:Envelope>
+
