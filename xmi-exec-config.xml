@@ -1,0 +1,22 @@
+<!--
+Runs a DataPower CLI cfg file, in this example deletes a file.
+On DataPower, in a specific domain, there exist a CLI script file: local:///delete-my-file.cfg.
+When run, this CLI script deletes another file named: local:///my-file.
+Here is the content of DataPower file local:///delete-my-file.cfg:
+        delete local:///my-file
+Can be run from workstation with curl:
+  curl -k -u admin:admin -d @xmi-file-send.xml https://dp_ip:5550/service/mgmt/current
+ -->
+
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <S:Body>
+                <dp:request xmlns:dp="http://www.datapower.com/schemas/management"
+                        domain="Temp-Test">
+                        <dp:do-action>
+                                <ExecConfig>
+                                        <URL>local:///delete-my-file.cfg</URL>
+                                </ExecConfig>
+                        </dp:do-action>
+                </dp:request>
+        </S:Body>
+</S:Envelope>

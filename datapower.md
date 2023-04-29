@@ -9,14 +9,11 @@
 [B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
 
 <!--
-[Skytap / IRLP Lab Overview Presentation](https://docs.google.com/document/d/e/2PACX-1vTkYdV767hCbGRRPRicC7TDzXmKEAcQaFYkKkbHN_YTGHw7Nn_UAqjB9yj0nuPw-XJLLEKCh9tsOiy2/pub "Brief overview of the Ubuntu Desktop and DataPower remote images.")
+Source of below here:
+https://docs.google.com/document/d/14I0HhAJG9l7C_CX4KOYvPtGOOW3QlKH9qWDDXKuq6Rc/edit?usp=share_link
 -->
-
 [Skytap / IRLP Lab Overview Presentation](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-via-Skytap.pdf "Brief overview of the Ubuntu Desktop and DataPower remote images.")
 
-<!--
-[Pre-course intro by Steve Edwards](https://drive.google.com/open?id=15xFNTXAw26AHOB83B1Eqoa907ICdcqBa)  
--->
 [Pre-course intro by Steve Edwards](https://github.com/steve-a-edwards/course-support/blob/master/Pre-Course-Intro.pdf)  
 
 <!--
@@ -88,10 +85,6 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 
 [Course pre-requisite: VW750 on MediaCenter](https://mediacenter.ibm.com/media/t/1_fb2tsml1 "IBM DataPower Gateway Appliance V7.5.0 Technical Introduction by Jim Brown, Mar 2016  - Youtube (49:02).")
 
-<!-- MANY DEVELOPERWORKS ARTICLES REMOVED
-[References DataPower](https://docs.google.com/document/pub?id=17BJWdE56IrUkiQExRFktQWqD2-gQOpBxqVpQ-7eLmu0 "Compiled by Steve for over 10 years.")
--->
-
 [HTTP Sample Packets](https://github.com/steve-a-edwards/course-support/blob/master/Sample-HTTP-Combined.pdf "Samples showing HTTP methods, HTTP headers, URIs, content, ...")
 
 [Sample DataPower Service Variables](https://raw.githubusercontent.com/steve-a-edwards/we751/master/sample-datapower-service-vars.md "As may be seen in the multistep probe.")
@@ -132,9 +125,9 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [Curl calling XMI *set-file* to upload a file](https://github.com/steve-a-edwards/course-support/blob/master/xmi-file-send.xml)  
 
-[Java calling XMI Ping function](https://github.com/steve-a-edwards/course-support/blob/master/Ping-Using-WSDL-Generated-Java.java "Ping-Using-WSDL-Generated-Java.")
+[Java calling XMI Ping function](https://github.com/steve-a-edwards/datapower-java/blob/main/src/client/soma/coded/main/Ping_Client.java "Ping_Client.java.")
 
-[Java calling XMI FileUpload function](https://docs.google.com/document/d/1K4S1LXZTq5YMtuKLZFBS2zAYiWIH0OMCvgkfzlcbif4/pub "FileUpload-Using-WSDL-Generated-Java.")
+[Java calling XMI FileUpload function](https://github.com/steve-a-edwards/datapower-java/blob/main/src/client/soma/coded/main/UploadFile_Client.java "UploadFile_Client.java.")
 
 <!--
 [GatewayScript Example  - JSON to SOAP](https://docs.google.com/document/d/1QB_nugvVLhaJ6OmLXUgb5J-WHhmB9T6SqmV3Bn4_G6o/pub)  
@@ -142,7 +135,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 [GatewayScript Example  - JSON to SOAP](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/json-soap.js)  
 
 
-[XMI to run a CLI script already on DataPower - ExecConfig](https://docs.google.com/document/d/1UNOIY4jWCPZajk0dQ0q06_rbnejOAiNwddqywpttv10/pub)
+[XMI to run a CLI script already on DataPower - ExecConfig](https://github.com/steve-a-edwards/course-support/blob/master/xmi-exec-config.xml)
 
 [XMI get contents of a folder in a specific domain in DataPower - GetFilestore](https://docs.google.com/document/d/1JsSblUBIcpjOeGhJkHpKfuhqBF4szC8hAW4NBLuGL_o/pub)
 
