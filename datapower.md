@@ -137,7 +137,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [XMI to run a CLI script already on DataPower - ExecConfig](https://github.com/steve-a-edwards/course-support/blob/master/xmi-exec-config.xml)
 
-[XMI get contents of a folder in a specific domain in DataPower - GetFilestore](https://docs.google.com/document/d/1JsSblUBIcpjOeGhJkHpKfuhqBF4szC8hAW4NBLuGL_o/pub)
+[XMI get contents of a folder in a specific domain in DataPower - GetFilestore](https://github.com/steve-a-edwards/course-support/blob/master/xmi-get-filestore.xml)
 
 [Custom UI file](https://github.com/steve-a-edwards/we761/blob/master/various/se-custom-ui.xml)
 
