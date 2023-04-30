@@ -76,7 +76,6 @@ Download all the files from this [location](https://github.com/steve-a-edwards/w
 [Linux command script to make an XMI remote call to trigger a DataPower script (the one above)](https://github.com/steve-a-edwards/we761/blob/master/sample-sh-code/xmi-ExecConfig.sh)   
 (** WebSphere DataPower SOA Appliance: The XML Management Interface  - see below to download.)  
 
- ** Steve's copies of old, but still useful documents, worth downloading and keeping.
 
 ---
 ## Further Resources
@@ -119,7 +118,7 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [(NOT currently working) Extension Functions example](https://docs.google.com/document/d/1hQnJWln_Dom4sadZpwgQQi7IwJAMJ0l2TOn53Ik2gcY/pub)
 
-[Extra CLI, exec, XMI Exercise](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/xmi-exec-script.txt)
+[DataPower CLI using exec command](https://github.com/steve-a-edwards/course-support/blob/master/CLI-exec-script.txt)
 
 [Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://github.com/steve-a-edwards/course-support/blob/master/change-configuration-studentnn_import_domain.cfg "CLI to change configuration in another domain.") 
 

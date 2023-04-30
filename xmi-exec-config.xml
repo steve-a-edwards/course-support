@@ -1,17 +1,22 @@
 <!--
-Runs a DataPower CLI cfg file, in this example deletes a file.
-On DataPower, in a specific domain, there exist a CLI script file: local:///delete-my-file.cfg.
-When run, this CLI script deletes another file named: local:///my-file.
+This is an XMI file named xmi-exec-config.xml and will be created on your workstation.
+When sent as an XMI (SOAP) message to a DataPower, this will trigger a CLI exec file.
+On DataPower, in the 'default' domain, there exists:
+- a CLI script file: local:///delete-my-file.cfg
+- a file local:///my-file.txt (with some arbitrary content for this exercise)
+Follow the earlier exercise 'DataPower CLI using exec command' to create these files.
+When run, the CLI exec script deletes the file named: local:///my-file.txt.
 Here is the content of DataPower file local:///delete-my-file.cfg:
-        delete local:///my-file
-Can be run from workstation with curl:
-  curl -k -u admin:admin -d @xmi-file-send.xml https://dp_ip:5550/service/mgmt/current
+  del local:///my-file.txt
+  test logging file critic "Deleted file myfile.txt"
+Can be run from a workstation with curl (but using relevant user, password and dp_ip values):
+  curl -k -u admin:admin-password -d @xmi-exec-config.xml https://dp_ip:5550/service/mgmt/current
  -->
 
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
         <S:Body>
                 <dp:request xmlns:dp="http://www.datapower.com/schemas/management"
-                        domain="Temp-Test">
+                        domain="default">
                         <dp:do-action>
                                 <ExecConfig>
                                         <URL>local:///delete-my-file.cfg</URL>
