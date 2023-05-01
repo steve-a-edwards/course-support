@@ -1,0 +1,17 @@
+# The following to be run from the Ubuntu desktop terminal window to put files
+# on Ubuntu and DataPower.
+# First curl copies 2-Ubuntu-Access-Verification.txt to Ubuntu desktop from GitHub.
+# Second curl creates the file local:///3-DataPower-Verification.txt on the DataPower:
+
+curl https://raw.githubusercontent.com/steve-a-edwards/course-support/master/early-setup-request-to-students/2-Ubuntu-Access-Verification.txt -o ./Desktop/2-Ubuntu-Access-Verification.txt
+
+curl -k -usysadmin:sysadminpassw0rd -d \
+"<S:Envelope xmlns:S='http://schemas.xmlsoap.org/soap/envelope/'>\
+  <S:Body>\
+    <dp:request xmlns:dp='http://www.datapower.com/schemas/management' domain='default'>\
+      <dp:set-file name='local:///3-DataPower-Verification.txt'>U3RldmUgbGl2ZXMgaW46IFNvdXRoYW1wdG9uLgoKKFRoaXMgYSB0ZXN0IHRvIGNoZWNrIHN0dWRlbnRzIGNhbiBhY2Nlc3MgRGF0YVBvd2VyLikK</dp:set-file>\
+    </dp:request>\
+  </S:Body>\
+</S:Envelope>"\
+ https://192.168.100.201:5550/service/mgmt/current
+ 

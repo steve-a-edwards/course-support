@@ -141,6 +141,8 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 [Custom UI file](https://github.com/steve-a-edwards/we761/blob/master/various/se-custom-ui.xml)
 
 
+[-](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/early-setup-request-to-students/0-put-files-ubuntu-datapower.txt)
+
 OLD do not use:  
 [Extra CLI Exercise](https://docs.google.com/document/d/1zjyVUejlf5z8ccDGr1RlcCsiLVt1qFDK7we6FNODsA4/pub)
 

@@ -1,0 +1,49 @@
+Subject: Steve/WE761 - early practice accessing course facilities
+
+=== START - NOTE TO INSTRUCTOR ---
+BEFORE SENDING EMAIL, put the following link in MS Teams chat:
+1-MS-Teams-Access-Verification.txt
+https://github.com/steve-a-edwards/course-support/blob/master/early-setup-request-to-students/1-MS-Teams-Access-Verification.txt
+
+First-Day-Prep.pdf
+https://github.com/steve-a-edwards/course-support/blob/master/First-Day-Prep.pdf
+
+DataPower-Course-Labs-via-Skytap
+https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Labs-via-Skytap.pdf
+===END
+
+Familiarisation with the course facilities before 09:30 on the first day:
+
+IBM Labs: WE761G
+- start both of VMs:
+  - A - 'Student Image' (Ubuntu desktop image)
+  - B - 'Appliance - DO NOT login' (DataPower image)
+- double-click 'A - Student Image' after it becomes green and click the
+  arrow to get it running
+- on the Ubuntu desktop, open the file '2-Ubuntu-Access-Verification.txt'
+  you will see what sport Steve plays, note this ***
+
+DataPower
+- in the Ubuntu desktop open Firefox and click the 'DataPower Gateway' button
+- login to DataPower 'sysadmin' / 'sysadminpassw0rd' selecting domain 'default'
+  (you will change the password, remember the new one!)
+- open up the DataPower 'File Management', view the file 'local:///3-DataPower-Access-Verification.txt'
+  you will see the name of the town I live in, note this ***
+  
+MS Teams
+- it is presumed you are now able to access MS Teams
+- there should be a chat entry that shows my favourite color
+
+
+***Now you will have accessed the main facilities of the course, to prove this, send an email to Steve
+to show that you know:
+- my sport
+- my town
+- my favourite colour
+
+The intention is that you can do all of the above before we formally start on Tuesday 09:30.
+
+I will be logged in to MS Teams at 09:00 in case you need help before then.
+
+Cheers,
+Steve

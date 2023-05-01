@@ -1,4 +1,4 @@
-Subject: Steve/WE761 - early practice accessing course facilities
+Subject: Steve/WE751G - early practice accessing course facilities
 
 === START - NOTE TO INSTRUCTOR ---
 BEFORE SENDING EMAIL, put the following link in MS Teams chat:
@@ -12,9 +12,9 @@ DataPower-Course-Labs-via-Skytap
 https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Labs-via-Skytap.pdf
 ===END
 
-Familiarisation with the course facilities before 09:30 Tuesday:
+Familiarisation with the course facilities before 09:30 on the first day:
 
-IBM Labs: WE761G
+IBM Labs: WE751G
 - start both of VMs:
   - A - 'Student Image' (Ubuntu desktop image)
   - B - 'Appliance - DO NOT login' (DataPower image)
