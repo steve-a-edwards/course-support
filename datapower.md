@@ -122,6 +122,8 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [XMI to run a CLI script already on DataPower - ExecConfig](https://github.com/steve-a-edwards/course-support/blob/master/xmi-exec-config.xml)
 
+[CLI file operations](https://github.com/steve-a-edwards/course-support/blob/master/CLI-file-operations.txt)  
+
 [Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://github.com/steve-a-edwards/course-support/blob/master/change-configuration-studentnn_import_domain.cfg "CLI to change configuration in another domain.") 
 
 [Curl calling XMI *set-file* to upload a file](https://github.com/steve-a-edwards/course-support/blob/master/xmi-file-send.xml)  

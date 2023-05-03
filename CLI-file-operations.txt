@@ -1,0 +1,52 @@
+DataPower CLI file commands
+
+
+# The following command work on WE761 IRLP lab system
+# Run the following, and check the commands have been
+# successful by using the Web GUI
+
+switch domain FLYServices
+
+copy http://192.168.100.1/dp/Alice-privkey.pem local:///Alice-privkey.pem
+copy http://192.168.100.1/dp/Alice-sscert.pem local:///Alice-sscert.pem
+
+dir local:
+
+delete local:///Alice-sscert.pem                                          
+delete local:///Alice-privkey.pem
+
+# Try putting the 2 copy commands in an exec file and prove it works
+
+# The lines below show the terminal output on running such commands.
+
+idg(config)# 
+idg(config)# switch domain FLYServices                                                  
+idg[FLYServices](config)# dir local:                                                                 
+   File Name                    Last Modified                    Size
+   ---------                    -------------                    ----
+   airportModule.js             Dec 29, 2017 4:44:00 PM          2582
+...
+   BagInfoRequestSample.xml     Dec 29, 2017 4:44:00 PM          293
+
+   10979.8 MB available to local:
+
+idg[FLYServices](config)# copy http://192.168.100.1/dp/Alice-privkey.pem local:///Alice-privkey.pem  
+File copy success (1704 bytes copied)
+idg[FLYServices](config)# copy http://192.168.100.1/dp/Alice-sscert.pem local:///Alice-sscert.pem    
+File copy success (1505 bytes copied)
+idg[FLYServices](config)# dir local:                                                                
+   File Name                    Last Modified                    Size
+   ---------                    -------------                    ----
+   airportModule.js             Dec 29, 2017 4:44:00 PM          2582
+...
+   Alice-sscert.pem             May 2, 2023 1:32:03 AM           1505
+...
+   Alice-privkey.pem            May 2, 2023 1:32:01 AM           1704
+
+   10979.8 MB available to local:
+
+idg[FLYServices](config)# delete local:///Alice-privkey.pem                                          
+File deletion successful
+idg[FLYServices](config)# delete local:///Alice-sscert.pem                                          
+File deletion successful
+idg[FLYServices](config)# 
