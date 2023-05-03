@@ -5,6 +5,18 @@
 
 curl https://raw.githubusercontent.com/steve-a-edwards/course-support/master/early-setup-request-to-students/2-Ubuntu-Access-Verification.txt -o ./Desktop/2-Ubuntu-Access-Verification.txt
 
+# WE751
+curl -k -usysadmin:irlpsysadmin -d \
+"<S:Envelope xmlns:S='http://schemas.xmlsoap.org/soap/envelope/'>\
+  <S:Body>\
+    <dp:request xmlns:dp='http://www.datapower.com/schemas/management' domain='default'>\
+      <dp:set-file name='local:///3-DataPower-Verification.txt'>U3RldmUgbGl2ZXMgaW46IFNvdXRoYW1wdG9uLgoKKFRoaXMgYSB0ZXN0IHRvIGNoZWNrIHN0dWRlbnRzIGNhbiBhY2Nlc3MgRGF0YVBvd2VyLikK</dp:set-file>\
+    </dp:request>\
+  </S:Body>\
+</S:Envelope>"\
+ https://192.168.0.100:5550/service/mgmt/current
+
+# WE761
 curl -k -usysadmin:sysadminpassw0rd -d \
 "<S:Envelope xmlns:S='http://schemas.xmlsoap.org/soap/envelope/'>\
   <S:Body>\

@@ -120,6 +120,8 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 
 [DataPower CLI using exec command](https://github.com/steve-a-edwards/course-support/blob/master/CLI-exec-script.txt)
 
+[XMI to run a CLI script already on DataPower - ExecConfig](https://github.com/steve-a-edwards/course-support/blob/master/xmi-exec-config.xml)
+
 [Alternative to use of Deployment Policy objects (WE720, Exercise 5.7)](https://github.com/steve-a-edwards/course-support/blob/master/change-configuration-studentnn_import_domain.cfg "CLI to change configuration in another domain.") 
 
 [Curl calling XMI *set-file* to upload a file](https://github.com/steve-a-edwards/course-support/blob/master/xmi-file-send.xml)  
@@ -133,8 +135,6 @@ at this location: [Git link](https://github.com/steve-a-edwards/course-support/t
 -->
 [GatewayScript Example  - JSON to SOAP](https://raw.githubusercontent.com/steve-a-edwards/course-support/master/extra-exercises/json-soap.js)  
 
-
-[XMI to run a CLI script already on DataPower - ExecConfig](https://github.com/steve-a-edwards/course-support/blob/master/xmi-exec-config.xml)
 
 [XMI get contents of a folder in a specific domain in DataPower - GetFilestore](https://github.com/steve-a-edwards/course-support/blob/master/xmi-get-filestore.xml)
 
