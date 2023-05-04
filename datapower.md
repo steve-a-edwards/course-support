@@ -31,13 +31,12 @@ https://docs.google.com/document/d/14I0HhAJG9l7C_CX4KOYvPtGOOW3QlKH9qWDDXKuq6Rc/
 <hr/>
 <b>Survey Links - WE761G, May 2023</b>
 
-NOT AVAILABLE YET: The following survey links may not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
+The following survey links may not work as expected using Chrome. Use instead Firefox / Safari / ...<br/> 
 Also, the surveys are only available on the last day.  
-You will be asked to Login, but all you need is your email (no password needed!):  
+You may be asked to Login, but all you need is your email (no password needed!):  
 
-<!--
-[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK269815)  
--->
+[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK270450)  
+
 <hr/>
 
 [Background technologies](https://github.com/steve-a-edwards/course-support/blob/master/DataPower-Course-Background.pdf)
