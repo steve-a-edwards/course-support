@@ -6,7 +6,9 @@
 [B - WE75x Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE751-WE752-WE753-WE754-Variables-and-Ports.pdf "Values for WE751, WE752, WE753, WE754 Exercises.")
 -->
 
-[B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")
+[B - WE761 Variables, Ports, Users, Passwords](https://github.com/steve-a-edwards/course-support/blob/master/WE761-Variables-and-Ports.pdf "Values for WE761 Exercises.")  
+
+[WE761 - Exercise 2.9.REST management - Alternative approach to exercise notes using curl.](https://github.com/steve-a-edwards/we761/blob/master/rmi/WE761-RMI-Exercise-2.9.txt)  
 
 <!--
 Source of below here:
@@ -35,7 +37,7 @@ NOT YET AVAILABLE: The following survey links may not work as expected using Chr
 Also, the surveys are only available on the last day.  
 You may be asked to Login, but all you need is your email (no password needed!):  
 <!--
-[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK270450)  
+[WE761 Online Students Survey link](https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=UK270451)  
 -->
 <hr/>
 
