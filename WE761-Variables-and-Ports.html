@@ -1,0 +1,620 @@
+<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>WE761-Variables-and-Ports</title>
+<style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
+}
+
+h2 {
+	color: black;
+	font-family: "Trebuchet MS", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 13pt;
+}
+
+p {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 11pt;
+	margin: 0pt;
+}
+
+.h3 {
+	color: #F00;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 11pt;
+}
+
+.s1 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 11pt;
+}
+
+.s2 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 11pt;
+}
+
+.s3 {
+	color: #F00;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 11pt;
+}
+
+.s4 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: italic;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 11pt;
+}
+
+.s5 {
+	color: black;
+	font-family: "Trebuchet MS", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 16pt;
+}
+
+.s6 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 14pt;
+}
+
+.s7 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 14pt;
+}
+
+h1 {
+	color: #1154CC;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 14pt;
+}
+
+a {
+	color: #1154CC;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: underline;
+	font-size: 7pt;
+}
+
+table, tbody {
+	vertical-align: top;
+	overflow: visible;
+}
+</style>
+</head>
+<body>
+	<h2
+		style="padding-top: 3pt; padding-left: 124pt; text-indent: 0pt; text-align: center;">Variables
+		and Ports for DataPower Course WE761</h2>
+	<p style="text-indent: 0pt; text-align: left;">
+		<br />
+	</p>
+	<p style="padding-left: 5pt; text-indent: 0pt; text-align: left;">
+		Replace <span class="h3">nn </span>in port values below with two-digit
+		student number.
+	</p>
+	<p
+		style="padding-top: 2pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+		For students using the Skytap / IRLP remote labs, the value of <span
+			class="h3">nn </span>will be <span class="h3">01 </span>for all
+		students.
+	</p>
+	<p style="text-indent: 0pt; text-align: left;">
+		<br />
+	</p>
+	<table style="border-collapse: collapse; margin-left: 5.5pt"
+		cellspacing="0">
+		<tr style="height: 25pt">
+			<td
+				style="width: 539pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="3"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DataPower
+					Network Details</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DataPower
+					WebGUI</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">https://192.168.100.201:9090</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_internal_ip&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">192.168.100.201</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">WebGUI,
+					SSH, XMI, RMI</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_public_ip&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">192.168.100.202</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Applications</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_WebGUI_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">9090</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">WebGUI</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_xml_mgmt_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">5550</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">XMI</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_rest_mgmt_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">5554</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">RMI</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 333pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="2"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DataPower
+					Initial Administrator User</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Already
+					existing</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_admin_login&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">sysadmin</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;dp_admin_password&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">sysadminpassw0rd</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 333pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="2"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DataPower:
+					Created Administrator User</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Ex
+					2.1 - Using CLI (pp 2-5 / 2.10)</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_admin&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>_admin
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_admin_password&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Changed
+					on first login.</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_admin_group&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>_admin_group
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 333pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="2"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DataPower:
+					Created Developer Resources</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Ex
+					2.3 - Using SOMA (pp 2-15 / 2-16)</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_password&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Changed
+					on first login.</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_developer_group&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>_developer_group
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 23pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;studentnn_domain&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					student<span class="s3">nn</span>_domain
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 333pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="2"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Ubuntu
+					Linux Settings</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;lab_files&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">/home/localuser/labfiles/dp</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;image_ip&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">192.168.100.1</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;linux_user&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">localuser</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;linux_user_password&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">passw0rd</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;logger_app_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">1112</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">DP_FileLogger.sh</p></td>
+		</tr>
+	</table>
+	<table style="border-collapse: collapse; margin-left: 5.5pt"
+		cellspacing="0">
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 333pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"
+				colspan="2"><p class="s1"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">Allocated
+					ports for student-built / exercise DP services</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					style="text-indent: 0pt; text-align: left;">
+					<br />
+				</p></td>
+		</tr>
+		<tr style="height: 26pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;mpgw_dpadmin&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					10<span class="s3">nn</span>1
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s4"
+					style="padding-top: 6pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					DPAdmin <span class="s2">MPGW</span>
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;mpgw_basic_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					10<span class="s3">nn</span>6
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s4"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					MyBasicMPG <span class="s2">MPGW</span>
+				</p></td>
+		</tr>
+		<tr style="height: 25pt">
+			<td
+				style="width: 164pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">&lt;mpgw_log_port&gt;</p></td>
+			<td
+				style="width: 169pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s2"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					10<span class="s3">nn</span>5
+				</p></td>
+			<td
+				style="width: 206pt; border-top-style: solid; border-top-width: 1pt; border-left-style: solid; border-left-width: 1pt; border-bottom-style: solid; border-bottom-width: 1pt; border-right-style: solid; border-right-width: 1pt"><p
+					class="s4"
+					style="padding-top: 5pt; padding-left: 5pt; text-indent: 0pt; text-align: left;">
+					LogTransformMPG <span class="s2">MPGW</span>
+				</p></td>
+		</tr>
+	</table>
+</body>
+</html>
